@@ -1,7 +1,7 @@
 # MarbleClan
 ## Tales of the Knoxville Hollow
 
-*A Story for Eli & Celerypaw's Other Self*
+*A Story for Acornpaw's Other Self & Celerypaw's Other Self*
 
 ---
 
@@ -1945,7 +1945,7 @@ From inside the theatre came the muffled rumble of voices and music and laughter
 
 "Who is that?" Celerypaw whispered.
 
-"A Twoleg storyteller," Smokefur said. "A very old one. He tells tales of ships that fly between the stars. Your housemates Eli and Rosie love him, I think. The Twolegs love him. They have come from all over to listen."
+"A Twoleg storyteller," Smokefur said. "A very old one. He tells tales of ships that fly between the stars. Your two Twoleg kits love him, I think. The Twolegs love him. They have come from all over to listen."
 
 "Like a World's Fair," Acornpaw said.
 
@@ -2039,7 +2039,7 @@ His own hollow. His own clan. His own home.
 
 He opened his eyes.
 
-He looked across the street, up at the high lit window of the theatre. He could see them, faint behind the glass — a brown-haired boy leaning so far forward in his seat his nose was almost touching the row in front of him, and a smaller girl beside him with her shoulder pressed into his, the way Celeryflight's shoulder was pressed into his right now.
+He looked across the street, up at the high lit window of the theatre. He could see them, faint behind the glass — a boy leaning so far forward in his seat his nose was almost touching the row in front of him, and a smaller girl beside him with her shoulder pressed into his, the way Celeryflight's shoulder was pressed into his right now.
 
 Acornleap dipped his head. Across the curb, across the street, through the glass, neither Twoleg kit saw him. That was all right. Cats do not need to be seen to bless a thing.
 
@@ -2089,7 +2089,7 @@ Celeryflight stood up.
 
 They were stiff. They were changed. They walked home together through the waking hollow, shoulder to shoulder, saying nothing — because there was nothing that needed saying, and because they were warriors now, and warriors knew how to carry a quiet thing.
 
-> **From the Twoleg world:** The Tennessee Theatre opened in 1928 and is one of the most beautiful old movie palaces in the South. Designed in a Spanish-Moorish style, it has hosted concerts, films, and live shows for nearly a hundred years. On April 18, 2026, the theatre is showing *Star Trek II: The Wrath of Khan* with a live appearance by the legendary Captain Kirk himself, William Shatner. Eli and Rosie — that's *you two* — get to be there. Listen for the laughter. That's the sound of a World's Fair the size of one room.
+> **From the Twoleg world:** The Tennessee Theatre opened in 1928 and is one of the most beautiful old movie palaces in the South. Designed in a Spanish-Moorish style, it has hosted concerts, films, and live shows for nearly a hundred years. On April 18, 2026, the theatre is showing *Star Trek II: The Wrath of Khan* with a live appearance by the legendary Captain Kirk himself, William Shatner. You two get to be there. Listen for the laughter. That's the sound of a World's Fair the size of one room.
 
 ---
 
@@ -2101,9 +2101,9 @@ The cats are made up, but the places are real. James White really built his fort
 
 The Trail of Tears really happened. And the Cherokee Nation really did survive it, and carries the memory of it, and is still here.
 
-And on the night of April 18, 2026, William Shatner really did stand on the stage of the Tennessee Theatre and tell stories to a roomful of strangers — including a brown-haired ten-year-old and his eight-year-old sister, somewhere in the rows.
+And on the night of April 18, 2026, William Shatner really did stand on the stage of the Tennessee Theatre and tell stories to a roomful of strangers — including a ten-year-old and his eight-year-old sister, somewhere in the rows.
 
-Welcome to Knoxville, Eli and Rosie.
+Welcome to Knoxville.
 
 Look up.
 
