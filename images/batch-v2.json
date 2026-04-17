@@ -1,0 +1,67 @@
+{
+  "jobs": [
+    {
+      "prompt": "Children's graphic novel illustration in the style of Warrior Cats by Erin Hunter, illustrated by James L. Barry: A panoramic dawn view from a high bluff overlooking the confluence of two great rivers — the French Broad and the Holston — joining together to form the wide Tennessee River below. Mist rises from the water. Forests of pine and oak crowd the riverbanks. In the foreground on a mossy outcrop, a small ginger tabby kitten with a white sock (Acornpaw) and a small calico she-cat (Celerypaw, his sister apprentice) sit together, gazing out across the rivers. A great blue heron flies low across the water. Slightly anthropomorphic, awed expressions. Hand-inked linework, painterly digital color, soft dawn pastels of pink, mauve, gold and pale blue, gentle peaceful mood. In the spirit of a Warriors graphic novel quiet landscape moment. No text, no watermarks.",
+      "model": "pro",
+      "aspect": "16:9",
+      "size": "2K",
+      "output": "09-three-rivers.jpeg"
+    },
+    {
+      "prompt": "Children's graphic novel illustration in the style of Warrior Cats by Erin Hunter, illustrated by James L. Barry: A historical scene from the War of 1812: a regiment of frontier Tennessee militia cats — lean, scarred, determined toms and she-cats wearing simple bandanas in their clan colors — march in disciplined column across a rolling Tennessee meadow at dawn under a bold flag bearing three stars. They are answering a call to volunteer. In the foreground, a wise and weathered ginger tom (Volunteer-leader) raises one paw, gathering them together. Behind them, the Tennessee hills roll into mist. Slightly anthropomorphic, dignified heroic poses. Hand-inked linework, painterly digital color, dramatic morning light with cool dawn blues and warm gold highlights. In the spirit of a Warriors graphic novel epic call-to-arms scene. No text, no watermarks.",
+      "model": "pro",
+      "aspect": "16:9",
+      "size": "2K",
+      "output": "10-volunteer-state.jpeg"
+    },
+    {
+      "prompt": "Children's graphic novel illustration in the style of Warrior Cats by Erin Hunter, illustrated by James L. Barry: A gentle, melancholic but hopeful scene: a Cherokee tabby cat (Trailwalker) stands at the edge of a wooded hillside in early autumn, looking back over her shoulder one last time at the mountains of her home behind her, before turning to follow a long line of Cherokee cats walking westward into a soft golden sunset. The mountains glow with hope, not despair. A single tear glistens in her eye but her posture is dignified. Falling leaves of red and gold drift through the air. Soft, respectful, never grim. Slightly anthropomorphic, deeply expressive. Hand-inked linework, painterly digital color, warm autumn palette of amber, rose, and gold with deep purple shadows, dignified mournful but hopeful mood. In the spirit of a Warriors graphic novel quiet emotional scene. No text, no watermarks.",
+      "model": "pro",
+      "aspect": "16:9",
+      "size": "2K",
+      "output": "11-trail-of-tears.jpeg"
+    },
+    {
+      "prompt": "Children's graphic novel illustration in the style of Warrior Cats by Erin Hunter, illustrated by James L. Barry: A young, scrappy frontier tomcat (Wildwhisker, representing Davy Crockett) wearing a tiny leather harness with small frontier-style tools, perched alertly on a tree stump in a dense East Tennessee forest at golden hour. He looks bold and curious, with an adventurous gleam in his eye. A small powder horn is slung over his shoulder. Behind him: deep green woods, dappled sunlight, mountain laurel in bloom. A red squirrel chatters from a higher branch. Slightly anthropomorphic, heroic plucky pose. Hand-inked linework, painterly digital color, warm forest greens and golden sunlight, adventurous mood. In the spirit of a Warriors graphic novel frontier hero scene. No text, no watermarks.",
+      "model": "pro",
+      "aspect": "16:9",
+      "size": "2K",
+      "output": "12-davy-crockett.jpeg"
+    },
+    {
+      "prompt": "Children's graphic novel illustration in the style of Warrior Cats by Erin Hunter, illustrated by James L. Barry: A small ginger tabby kitten with a white sock (Acornpaw) walks alone and a little nervous through a vast quarry of pink and rose-veined Tennessee marble. Massive cubes and slabs of pink marble rise like a city of giant blocks around him. Late afternoon sun strikes the marble and makes it glow warm and rosy. The kitten's tail is low — he is lost but determined. A single gleam of mica catches the light at his paws. Slightly anthropomorphic, brave but vulnerable expression. Hand-inked linework, painterly digital color, warm pink and rose marble tones with deep shadows, mood of solitary wonder. In the spirit of a Warriors graphic novel character-alone moment. No text, no watermarks.",
+      "model": "pro",
+      "aspect": "16:9",
+      "size": "2K",
+      "output": "13-marble-beneath.jpeg"
+    },
+    {
+      "prompt": "Children's graphic novel illustration in the style of Warrior Cats by Erin Hunter, illustrated by James L. Barry: A small calico she-cat (Celerypaw) makes her way bravely across the historic University of Tennessee campus at twilight. Around her, the orange-and-white check pattern of the football stadium grounds, ivy-draped brick buildings, and the iconic tower of Ayres Hall on a hill in the background. Two friendly older university campus cats — one a long-haired orange tom (mascot energy), one a sleek black she-cat — flank her, walking her safely along a stone path. Lights begin to glow in dorm windows. Slightly anthropomorphic, warm helpful expressions on the older cats, brave hopeful expression on Celerypaw. Hand-inked linework, painterly digital color, warm twilight palette of dusky orange, deep blue, and amber lamplight. In the spirit of a Warriors graphic novel kindness-of-strangers moment. No text, no watermarks.",
+      "model": "pro",
+      "aspect": "16:9",
+      "size": "2K",
+      "output": "14-ut-campus.jpeg"
+    },
+    {
+      "prompt": "Children's graphic novel illustration in the style of Warrior Cats by Erin Hunter, illustrated by James L. Barry: A small calico she-cat (Celerypaw) stands on a high rocky bluff at night, gazing across a vast Tennessee Valley at the towering concrete arc of the Norris Dam holding back a massive lake. Strings of warm electric lights illuminate the dam and trace power lines snaking out across the dark hills, like a constellation laid down on the land. The lights guide her eye toward home. Stars wheel above. Reflections shimmer on the lake. Slightly anthropomorphic, hopeful contemplative expression. Hand-inked linework, painterly digital color, deep night blues with warm amber light strings and starry highlights, magical mood. In the spirit of a Warriors graphic novel finding-the-way-home scene. No text, no watermarks.",
+      "model": "pro",
+      "aspect": "16:9",
+      "size": "2K",
+      "output": "15-tva-lights.jpeg"
+    },
+    {
+      "prompt": "Children's graphic novel illustration in the style of Warrior Cats by Erin Hunter, illustrated by James L. Barry: A beautiful golden-blonde long-haired she-cat (Singer, representing Dolly Parton) sits regally on a wooden mountain stage at twilight, eyes closed in song. Around her: the Smoky Mountains roll in waves of blue mist. A small audience of cats from many clans sits in rapt attention on the grass below. Music notes drift visibly through the air, glowing softly like fireflies. The scene is warm, magical, full of comfort. Acornpaw and Celerypaw sit at the edge of the audience, finally hearing each other's songs. Slightly anthropomorphic, peaceful expressions. Hand-inked linework, painterly digital color, warm golden hour palette with deep mountain blues, magical comforting mood. In the spirit of a Warriors graphic novel reunion-through-music scene. No text, no watermarks.",
+      "model": "pro",
+      "aspect": "16:9",
+      "size": "2K",
+      "output": "16-dolly-mountain.jpeg"
+    },
+    {
+      "prompt": "Children's graphic novel illustration in the style of Warrior Cats by Erin Hunter, illustrated by James L. Barry: A wide low-angle view of a long stone-and-iron bridge crossing the Tennessee River at sunset, with a small ginger tabby kitten with a white sock (Acornpaw) and a small calico she-cat (Celerypaw) walking together across the bridge toward the warm distant lights of Knoxville. The two banks of the river have slightly different character — one wilder, one more cultivated — symbolizing the historic two sides of East Tennessee united by the river. The river glows orange and rose with reflected sunset. The Knoxville skyline awaits in the distance, including the gold gleam of the Sunsphere tower. Slightly anthropomorphic, weary but determined sister-and-brother expressions. Hand-inked linework, painterly digital color, warm sunset palette, mood of homecoming and reconciliation. In the spirit of a Warriors graphic novel return-home scene. No text, no watermarks.",
+      "model": "pro",
+      "aspect": "16:9",
+      "size": "2K",
+      "output": "17-bridge-home.jpeg"
+    }
+  ]
+}
