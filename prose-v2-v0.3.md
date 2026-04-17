@@ -24,7 +24,7 @@
 
 **Apprentices:**
 - **Acornpaw** — a small ginger tom with one white sock and an enormous curiosity. His tail never stops twitching when he is thinking, and he is almost always thinking. Big for his age, fast in the legs, uncertain in the paws.
-- **Celerypaw** — a small calico she-cat (the only calico in the clan), Acornpaw's denmate. Quiet at first meeting. Sharp at the second. Knows where every stick of moss and every drop of dew belongs in the camp. Her secret dream is to take Mothpelt's place one day and become the medicine cat. She has not told anyone, except Acornpaw, and only at moonhigh, and only once.
+- **Celerypaw** — a small calico she-cat (the only calico in the clan), Acornpaw's denmate and sister-by-circumstance. Quiet at first meeting. Sharp at the second. Knows where every stick of moss and every drop of dew belongs in the camp. Her secret dream is to take Mothpelt's place one day and become the medicine cat. She has not told anyone, except Acornpaw, and only at moonhigh, and only once.
 
 ---
 
@@ -375,7 +375,7 @@ Smokefur laughed quietly. "Yes. That is the deepest reason. Markpelt could see. 
 
 Celerypaw was very quiet.
 
-Acornpaw looked at his denmate.
+Acornpaw looked at his sister-by-circumstance.
 
 He felt, in a small private way, that he had just learned something about her that he was not yet ready to put into words.
 
@@ -601,7 +601,7 @@ She paused.
 
 Celerypaw was very still. "Smokefur. Are there Cherokee cats here now? In our hollow?"
 
-"There are. Some Cherokee did not walk. They went into the deepest hollows of the Smokies — those same blue mountains you can see from our porch — and they hid until the soldiers gave up looking. Their grandchildren's grandchildren live there still, in a town called Cherokee, on the Oconaluftee River, where cats chase fish in the cold shallows and kits play stickball in the council yard. They have their own nation now, their own land, their own schools where Markpelt's letters are still taught. They are called the Eastern Band of Cherokee Indians. The mountains hid them, and they kept the mountains. That is its own kind of victory, kits. Not every survival looks like a long walk. Some survivals look like *staying*. And once a year, in greenleaf, some of the cats from the western country come down to a great gathering with the cats of the Eastern Band, and they tell their stories together, and they remember Gentlepelt and all the other cats who made the walk and all the other cats who hid."
+"There are. Some Cherokee did not walk. They went into the deepest hollows of the Smokies — those same blue mountains you can see from our porch — and they hid until the soldiers gave up looking. Their grandchildren's grandchildren live there still. They have their own nation now, their own land, their own schools where Markpelt's letters are still taught. They are called the Eastern Band of Cherokee Indians. The mountains hid them, and they kept the mountains. That is its own kind of victory, kits. Not every survival looks like a long walk. Some survivals look like *staying*. And once a year, in greenleaf, some of the cats from the western country come down to a great gathering with the cats of the Eastern Band, and they tell their stories together, and they remember Gentlepelt and all the other cats who made the walk and all the other cats who hid."
 
 "I want to go to that gathering one day," Acornpaw said.
 
@@ -1364,7 +1364,7 @@ There was a long silence.
 
 Lampblack answered.
 
-"The cats kept the mice out of the wires. That was our work. My great-grandfather's grandfather — *Quietpaw* — walked the long building called the K-twenty-five every night. It was so vast you could not see one end from the other — a U-shape, so the spinning machines inside could pass their work hand to hand without ever stopping. He kept the mice out of the wires. Without him, the work would have failed in many small accidental ways. He did this his whole life. He never left this valley. He died here. He is buried under a flowering pear tree near the third entrance to Y-twelve. We tend the pear tree. We always will."
+"The cats kept the mice out of the wires. That was our work. My great-grandfather's grandfather Quietpaw walked the long building called the K-twenty-five every night. It was so vast you could not see one end from the other — a U-shape, so the spinning machines inside could pass their work hand to hand without ever stopping. He kept the mice out of the wires. Without him, the work would have failed in many small accidental ways. He did this his whole life. He never left this valley. He died here. He is buried under a flowering pear tree near the third entrance to Y-twelve. We tend the pear tree. We always will."
 
 Acornpaw was very moved. He had not thought, when Smokefur had told him the story of Quietpaw, that there would still be a great-grandson's grandson, here, telling it forward.
 
@@ -1405,6 +1405,8 @@ Acornpaw and Celerypaw walked east, into the dusk, toward the warmth.
 ## Chapter Thirteen: The Singer of the Mountain
 
 That night they slept in an old shed behind a Twoleg cabin that smelled of wood smoke. They were too tired to take watches. They slept curled tight against each other.
+
+In the deep middle of the night, a strange thing happened. Celerypaw began to dream.
 
 Celerypaw woke first. The shed smelled of wood smoke and old hay. Acornpaw was still asleep beside her, his ginger fur warm against her flank. Outside the cracked-open door, music was coming from somewhere — bright twangy music, pulled out of a stringed instrument, with a high silver voice singing along to it.
 
@@ -1512,15 +1514,15 @@ Celerypaw thought.
 
 "Yes."
 
-"I learned that there is a Singer in the mountains. I met her, on a back porch, in the flesh. A great gold-and-white she-cat in a Twoleg's lap. She sang for me."
+"I learned that there is a Singer in the mountain who knows my dreams."
 
 Smokefur startled. Her cloudy eyes widened.
 
-"You met her *in the flesh*?"
+"You met her?"
 
-"Yes."
+"I dreamed her."
 
-"Ah. *Ah.* Most cats only dream her. You are very lucky, kit." She looked at Celerypaw with new respect. "What did she tell you?"
+"Ah. *Ah.* Of course. She comes in dreams. I had not thought she would come for you. You are very young." She looked at Celerypaw with new respect. "What did she tell you?"
 
 "That the mountains are full of stories nobody tells, and somebody had to tell them. And she gave me a song."
 
@@ -1564,7 +1566,7 @@ He nodded.
 
 He nodded.
 
-"Then the lostness was a kind of party too. It was a small private party that you threw for yourself, and StarClan came, and so did Celerypaw, and so did Singer, and so did Lampblack, and so did MountainClan, and so did Smokey and Onyx of the Hill of Many Lights, and so did I, sitting here on the bluff for two days. Eleven million cats and Twolegs came to your party, kit. You did not see them. They were there. They are always there. The world is full of them. And now you have come home."
+"Then the lostness was a kind of party too. It was a small private party that you threw for yourself, and StarClan came, and so did Celerypaw, and so did Singer, and so did Quietpaw's great-grandson's grandson, and so did MountainClan, and so did Smokey and Onyx of the Hill of Many Lights, and so did I, sitting here on the bluff for two days. Eleven million cats and Twolegs came to your party, kit. You did not see them. They were there. They are always there. The world is full of them. And now you have come home."
 
 Acornpaw could not speak.
 
@@ -1704,17 +1706,7 @@ Stonestar stepped forward.
 
 He spoke softly so that the Twolegs would not hear. But all the cats heard.
 
-"I, Stonestar, leader of MarbleClan, call upon my ancestors to look down on these two apprentices. They have walked further than most apprentices ever walk. They have learned their hollow. They have learned its edges. They have learned that a clan is held together not by paws but by stories. They have crossed waters they did not know how to cross. They have come home."
-
-He paused.
-
-"Acornpaw. Celerypaw. Do you promise to uphold the ways of MarbleClan — to defend this clan, to hunt for it, to carry its stories forward — even at the cost of your lives?"
-
-"I do," said Acornpaw.
-
-"I do," said Celerypaw.
-
-"Then by the powers of our ancestors, I give you your warrior names."
+"I, Stonestar, leader of MarbleClan, call upon my ancestors to look down on these two apprentices. They have walked further than most apprentices ever walk. They have learned their hollow. They have learned its edges. They have learned that a clan is held together not by paws but by stories. They have crossed waters they did not know how to cross. They have come home. They are ready for the warrior name."
 
 He turned to Acornpaw.
 
@@ -1728,9 +1720,7 @@ He turned to Celerypaw.
 
 Celeryflight bowed her head. Her new name felt like an old coat that had always fit her.
 
-For a long moment no cat moved. Somewhere down the street, a Twoleg laughed through the theatre door and was gone.
-
-And then, very softly, almost to herself, Celeryflight began to hum. It was not a song any cat in MarbleClan had heard before. It was a song about going home — about an old paw road and the smell of mountain laurel and a porch where someone you love is waiting up. Singer of the mountain had given it to her on a back porch far away in the mountain-country, and Celeryflight had carried it home folded inside her, waiting for the moment that needed it. This moment needed it.
+And then, very softly, almost to herself, Celeryflight began to hum. It was not a song any cat in MarbleClan had heard before. It was a song about going home — about an old paw road and the smell of mountain laurel and a porch where someone you love is waiting up. Singer of the mountain had given it to her on a back porch in Pigeon Forge, and Celeryflight had carried it home folded inside her, waiting for the moment that needed it. This moment needed it.
 
 Smokefur's old eyes filled. She had heard that song long before, in a back row of Singer's concert, when her own green eyes were sharp. She had not heard it in many many moons. She closed her eyes and let it land.
 
@@ -1740,7 +1730,7 @@ Behind them, the theatre erupted in laughter and applause. Above them, the real 
 
 Acornleap closed his eyes.
 
-He could feel the river running past, and the marble shining quietly under the hills, and the mountains breathing blue smoke in the distance, and the gold ball glowing over downtown, and the deep cold breath of the underground sea, and the hum of the great dam carrying the river's strength out into a thousand small lights, and Lampblack tending the flowering pear tree above his great-grandfather's grandfather's grave, and Whitewhisker's purr coming up faintly through the rooftop tiles of the old fort.
+He could feel the river running past, and the marble shining quietly under the hills, and the mountains breathing blue smoke in the distance, and the gold ball glowing over downtown, and the deep cold breath of the underground sea, and the hum of the great dam carrying the river's strength out into a thousand small lights, and Whitewhisker's purr coming up faintly through the rooftop tiles of the old fort.
 
 His own hollow. His own clan. His own home.
 
@@ -1754,21 +1744,9 @@ The stars wheeled slowly over Knoxville.
 
 Celeryflight pressed her shoulder into his.
 
-"Acornleap," she said quietly, "we made it."
+"Acornleap," she said, "we made it."
 
 "Celeryflight," he said, "we did."
-
-He blinked at her. "That song. You never told me."
-
-"I was saving it."
-
-"For this?"
-
-"For this."
-
-He was silent a moment. "I want to meet her too, one day."
-
-"We'll go together," she said.
 
 Smokefur, behind them, smiled with her cloudy eyes.
 
@@ -1780,9 +1758,7 @@ Smokefur, behind them, smiled with her cloudy eyes.
 
 *Every story in this book is true, more or less.*
 
-The cats are made up, but the places are real. James White really built his fort. Sequoyah really invented his syllabary. The Smoky Mountains really do breathe blue smoke. Davy Crockett really voted against Indian Removal and lost his seat for it. Tennessee really is the Volunteer State. The TVA really did light up the valley. Oak Ridge really was secret. The Lost Sea really was found by a thirteen-year-old boy. Dolly Parton really did grow up poor in the mountains and write three thousand songs. The Sunsphere really is gold and really did host the world. East Tennessee really did stay loyal to the Union.
-
-The Trail of Tears really happened. And the Cherokee Nation really did survive it, and carries the memory of it, and is still here.
+The cats are made up, but the places are real. James White really built his fort. Sequoyah really invented his syllabary. The Smoky Mountains really do breathe blue smoke. The Trail of Tears really happened. Davy Crockett really voted against it and lost his seat for it. Tennessee really is the Volunteer State. The TVA really did light up the valley. Oak Ridge really was secret. The Lost Sea really was found by a thirteen-year-old boy. Dolly Parton really did grow up poor in the mountains and write three thousand songs. The Sunsphere really is gold and really did host the world. East Tennessee really did stay loyal to the Union.
 
 And on the night of April 18, 2026, William Shatner really did stand on the stage of the Tennessee Theatre and tell stories to a roomful of strangers — including a brown-haired ten-year-old and his eight-year-old sister, somewhere in the rows.
 

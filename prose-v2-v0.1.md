@@ -24,7 +24,7 @@
 
 **Apprentices:**
 - **Acornpaw** — a small ginger tom with one white sock and an enormous curiosity. His tail never stops twitching when he is thinking, and he is almost always thinking. Big for his age, fast in the legs, uncertain in the paws.
-- **Celerypaw** — a small calico she-cat (the only calico in the clan), Acornpaw's denmate. Quiet at first meeting. Sharp at the second. Knows where every stick of moss and every drop of dew belongs in the camp. Her secret dream is to take Mothpelt's place one day and become the medicine cat. She has not told anyone, except Acornpaw, and only at moonhigh, and only once.
+- **Celerypaw** — a small calico she-cat (the only calico in the clan), Acornpaw's denmate and sister-by-circumstance. Quiet at first meeting. Sharp at the second. Knows where every stick of moss and every drop of dew belongs in the camp. Her secret dream is to take Mothpelt's place one day and become the medicine cat. She has not told anyone, except Acornpaw, and only at moonhigh, and only once.
 
 ---
 
@@ -127,14 +127,6 @@ Acornpaw thought hard. His tail twitched. He looked out across the rooftops, acr
 
 "Start at the beginning," he said.
 
-Smokefur was quiet for a moment, watching the river. Then she said:
-
-"Before I begin, kits. There is one thing you must know first.
-
-"The hollow we live in — this hollow, with our porch and our brewery and our river and our gold ball downtown — was not always called Knoxville. Long before there was a Knoxville, the Cherokee Twolegs and the Cherokee cats lived here. They named the river *Tanasi*. They named the mountains *Shaconage*. They built this place. We sleep on ground their paws shaped first. The hollow was theirs before it was ours, and in some quiet way, it is still theirs. We carry their names because the names belong to the place, not to us. Remember that, when I tell you the rest."
-
-Both apprentices nodded slowly.
-
 Smokefur smiled with her eyes again. "Then I will start with a tom named White."
 
 And outside the porch, somewhere on a Twoleg roof, a freight train wailed once across the dark, and the river kept moving, and a heron stood very still on a flat rock pretending to be a stick, and the hollow opened itself to the apprentices the way it had opened itself to every apprentice that had ever come before, and the long story began.
@@ -173,19 +165,19 @@ In return for the rats and the snakes, the Twolegs left scraps of bacon by the d
 
 After a while, more Twolegs came. The fort grew into a village. The village got a name — *Knoxville*, after a Twoleg named Henry Knox, far away in the eastern places, who was the war-chief of the new country the Twolegs were trying to build. The cats thought it was a strange thing, to name a place after a Twoleg who would never stand on its dirt or smell its rivers. But Twolegs are strange, and you cannot fix that.
 
-Whitewhisker watched the village grow. He watched the dirt path along the river become a wide street of pounded clay. He watched the Twolegs argue about laws and treaties and which streams belonged to which Twolegs. He watched the first governor of the new territory — a tom named Blount, in Twoleg form — set up his house on the bluff just above the river. The cats called that bluff *Council Hill*, because every important argument seemed to happen there.
+Whitewhisker watched the village grow. He watched the dirt path along the river become a wide street of pounded clay. He watched the Twolegs argue about laws and treaties and which streams belonged to which Twolegs. He watched the very first Tennessee governor — a tom named Blount, in Twoleg form — set up his house on the bluff just above the river. The cats called that bluff *Council Hill*, because every important argument seemed to happen there.
 
 "One time," said Smokefur, leaning her head closer in the way she did when she wanted you to listen extra carefully, "Whitewhisker made a friend among the Cherokee cats."
 
 "He *did*?" Acornpaw's tail puffed up with excitement.
 
-"He did. Her name was Gentlepelt. She was a fish-trader and a swimmer and the cat the Cherokee kits ran to when they had bad dreams. She had been born in one of the Cherokee villages south of the river, and she had grown up there, and she knew the names of every plant in the forest and the deepest pool in every stream. She came north sometimes to trade fish with the cats of the fort. That is how Whitewhisker met her. She was the first cat who taught Whitewhisker that there was more than one way to be a cat in this hollow. Whitewhisker had thought, until he met her, that the only way to be a cat was the way of the new Twolegs — porches and hearths and tin saucers of milk. Gentlepelt showed him the way of the river-side cats, who slept inside the warm winter houses and the airy summer houses of the Cherokee towns, and who ate from clay bowls, and who knew which roots a cat could eat in leaf-bare and which would make her sick."
+"He did. Her name was Gentlepelt. She lived in one of the Cherokee villages south of the river, and she came north sometimes to trade fish with the cats of the fort. She was the first cat who taught Whitewhisker that there was more than one way to be a cat in this hollow. Whitewhisker had thought, until he met her, that the only way to be a cat was the way of the new Twolegs — porches and hearths and tin saucers of milk. Gentlepelt taught him about the way of the river-side cats, who slept under the round roofs of the Cherokee houses and ate from clay bowls and learned the names of every plant in the forest."
 
 "What happened to Gentlepelt?" Celerypaw asked.
 
 Smokefur was quiet for a moment.
 
-"Her people were forced west by the white Twolegs, on a long walk that killed many of them. That is a story for another day, and I will tell it to you when you are stronger. For now, know this: Whitewhisker and Gentlepelt remained friends across the moons until the day Gentlepelt had to leave. They sat together one final night under a willow on the riverbank and did not speak. At dawn, Gentlepelt looked once at the blue line of the mountains where her grandmother was buried, and then she did not look back again. Whitewhisker walked her to the edge of the long line of her people, all of them moving west on the wagon road, and she pressed her nose to his, and then she was gone, and Whitewhisker watched the road until the line of cats became specks, and then until the specks became nothing."
+"Her clan moved away. Far away, west, against their will. That is a story for another day, and I will tell it to you when you are stronger. For now, know this: Whitewhisker and Gentlepelt remained friends across the moons until the day Gentlepelt left. They sat together one final night under a willow on the riverbank and did not speak. Whitewhisker walked her to the edge of the great water at dawn, and she pressed her nose to his, and then she was gone, and Whitewhisker watched the boats until they were specks, and then until they were nothing."
 
 Acornpaw's throat felt tight. He did not know why.
 
@@ -205,7 +197,7 @@ Smokefur considered the question for a long time.
 
 "He was useful," she said at last. "He was loved. He was lonely sometimes. He was needed sometimes. He saw a thing built that he had helped to build, and he walked through it on his last day, and all of it was full of his own old paw prints. I think that is happy. I think that may be the only kind of happy a cat can be sure of."
 
-> **From the Twoleg world:** James White really did build a fort here in 1786, and the city was named for Henry Knox, George Washington's Secretary of War. Knoxville was the very first capital of the State of Tennessee — the capital later moved several times before settling in Nashville. You can still visit a reconstructed James White's Fort downtown, just a few blocks from the Old City. The first governor of the Southwest Territory, William Blount, lived in a house that still stands on Hill Avenue — Blount Mansion, the oldest brick house in Knoxville. The Cherokee really did call the river Tanasi, and it really is where Tennessee got its name.
+> **From the Twoleg world:** James White really did build a fort here in 1786, and the city was named for Henry Knox, George Washington's Secretary of War. Knoxville was the very first capital of the State of Tennessee, before Nashville took the job. You can still visit a reconstructed James White's Fort downtown, just a few blocks from the Old City. The first governor of the Southwest Territory, William Blount, lived in a house that still stands on Hill Avenue — Blount Mansion, the oldest brick house in Knoxville. The Cherokee really did call the river Tanasi, and it really is where Tennessee got its name.
 
 ---
 
@@ -239,7 +231,7 @@ Smokefur let them sit with this for a long while. A pair of ospreys wheeled over
 
 "There *was*?" Acornpaw was on his paws.
 
-"A long time ago. They called themselves no clan at all, because there were no clans yet, but the cats who knew them remembered them as the Cats of the Wedding, because they lived where the rivers married. Their best hunters could swim all three rivers — both feeders and the wide one they made together — in one afternoon. They knew where the deepest pools were and which turn of the bank held the fattest crawdads. The river fed them. The river *was* them."
+"A long time ago. They called themselves no clan at all, because there were no clans yet, but the cats who knew them remembered them as the Cats of the Wedding, because they lived where the rivers married. Their best hunters could swim across both rivers, all three rivers, in one afternoon. They knew where the deepest pools were and which turn of the bank held the fattest crawdads. The river fed them. The river *was* them."
 
 "What happened to them?"
 
@@ -303,7 +295,7 @@ The next morning was misty. A soft white river-fog hung in the lower streets. Ac
 
 "…More trees?"
 
-Smokefur laughed her dry laugh. "Beyond the trees is a place the Cherokee called Tuskegee — say it *TUSS-kuh-ghee*. It is gone now, buried under the lake the Twolegs made when they built the great dam. But long before the lake, long before the white Twolegs, the Cherokee lived there in towns of warm winter houses and airy summer houses, council houses where seven clans met, and corn fields that stretched to the horizon. And in one of those towns, long ago, was born a tom named Markpelt."
+Smokefur laughed her dry laugh. "Beyond the trees is a place called Tuskegee. It is gone now — buried under the lake the Twolegs made when they built the great dam. But before the lake, before the white Twolegs, the Cherokee lived there in towns of round houses and council yards and corn fields that stretched to the horizon. And in one of those towns, long ago, was born a tom named Markpelt."
 
 "Markpelt?" Acornpaw said.
 
@@ -311,13 +303,13 @@ Smokefur laughed her dry laugh. "Beyond the trees is a place the Cherokee called
 
 "But he had a problem," said Celerypaw, who had heard a beginning enough times to recognize one.
 
-"He did. He could not read. Not because he was a cat, although that did not help, but because the Cherokee carried their words differently. Their stories lived in voices and hands, in songs and the marks they painted on bark and skin — the oldest and strongest kind of carrying. Markpelt loved those marks. But he had seen the white Twolegs' little black squiggles on paper, and the squiggles seemed to *trap* the Twolegs' voices, so the voices could be carried in a leather satchel and let out again far away. Markpelt thought: *what if Cherokee could have both kinds of carrying — the old kind, and a new one besides?*"
+"He did. He could not read. Not because he was a cat, although that did not help, but because the Cherokee had no written words. They told their stories with their voices and their hands and their drawings of birds and beasts on bark and skin. The white Twolegs, on the other paw, had little black squiggles on paper that seemed to *trap* their voices, so the voices could be carried in a leather satchel and let out again far away. Markpelt thought this was the best magic he had ever heard of."
 
 "It is," said Celerypaw fervently.
 
 "He wanted it for his people."
 
-"He did. And so for twelve greenleafs — twelve *years*, in Twoleg time — Markpelt sat on his porch and tried to invent his own squiggles. The other cats laughed at him. Some called him crazy. His own friends turned away. His own mate complained that he did nothing but draw and burned dinner three nights in a row. He did not budge. He kept drawing."
+"He did. And so for twelve moons — twelve *years*, in Twoleg time — Markpelt sat on his porch and tried to invent his own squiggles. The other cats laughed at him. Some called him crazy. His own friends turned away. His own mate complained that he did nothing but draw and burned dinner three nights in a row. He did not budge. He kept drawing."
 
 "What did he draw?" Acornpaw asked.
 
@@ -339,7 +331,7 @@ Smokefur laughed her dry laugh. "Beyond the trees is a place the Cherokee called
 
 Smokefur looked at Celerypaw with great approval.
 
-"That is what Markpelt thought too. He drew the eighty-five symbols on bark. He taught them first to his daughter, because she was small enough to learn fast and humble enough to take a cat's lessons seriously. Within a moon she was reading. Then she taught the elders. Then the elders taught the warriors. Within three greenleafs, the Cherokee Nation had become one of the most literate peoples in the world — reading their own stories, in their own tongue, in marks made by one of their own."
+"That is what Markpelt thought too. He drew the eighty-five symbols on bark. He taught them first to his daughter, because she was small enough to learn fast and humble enough to take a cat's lessons seriously. Within a moon she was reading. Then she taught the elders. Then the elders taught the warriors. And within three greenleafs, more Cherokee could read and write their own language than white Twolegs could read and write theirs."
 
 "How is that possible?" Acornpaw asked.
 
@@ -349,7 +341,7 @@ Celerypaw said nothing for a long while.
 
 "What was Markpelt's true name?" she asked finally.
 
-"The Cherokee Nation honors him as one of its greatest. His syllabary is still used today — on Cherokee street signs in the western country, in Cherokee newspapers, in Cherokee schools where the kits still learn their letters from his marks. The Twolegs' histories know him too. They called him Sequoyah. They named the biggest trees in the world after him — the great red trees of the western coast. They named towns after him. They put him on coins. There is even a museum in his honor, not far from where you sit, on a peninsula sticking out into the lake that buried his old village. If you ever pass it, dip your head. Markpelt earned it."
+"In the Twoleg histories, he is called Sequoyah. They named the biggest trees in the world after him — the great red trees of the western coast. They named towns after him. They put him on coins. There is even a museum in his honor, not far from where you sit, on a peninsula sticking out into the lake that buried his old village. If you ever pass it, dip your head. Markpelt earned it."
 
 Acornpaw thought about this for a long time. His tail twitched the way it did when he was working a thing out.
 
@@ -375,7 +367,7 @@ Smokefur laughed quietly. "Yes. That is the deepest reason. Markpelt could see. 
 
 Celerypaw was very quiet.
 
-Acornpaw looked at his denmate.
+Acornpaw looked at his sister-by-circumstance.
 
 He felt, in a small private way, that he had just learned something about her that he was not yet ready to put into words.
 
@@ -411,11 +403,11 @@ Smokefur led the apprentices to the edge of MarbleClan territory, to a place whe
 
 Smokefur looked at him a long time.
 
-"Because Tennessee Twolegs come when they are called. They came in 1812 with squirrel rifles and one extra pair of socks. They came in 1846 in such floods the army turned half of them around. They came in 1917 with their mothers crying behind them on the porch. The reason is not in the mountains or the river. The reason is that the first ones came, and the next ones knew it, and now nobody wants to be the generation that didn't."
+"Because Tennessee Twolegs do that. They have always done it. There is something in this air — maybe it is the mountains, maybe it is the river, maybe it is the smell of marble in the rocks — that makes Tennessee Twolegs answer when they are called. Even when they are not sure of the cause. Even when they are tired. Even when they have already sent their best the year before. They come."
 
 She paused.
 
-"There was a tom in those days. His name was Bigheart. He was a brown tabby whose left back leg dragged a half-beat behind the other three when he walked. A fox had given him that, in his apprentice-hood, and Bigheart had given the fox a torn lip in return, and they had agreed to disagree. He could not run. He could not climb. He sat on the porch in front of the brewery and watched the river the way other cats watched mice. But when the messenger came, Bigheart limped to the front of the gathering crowd and stood there with his head high, and he said: *I will go.*"
+"There was a tom in those days. His name was Bigheart. He was a brown tabby with a torn ear and a bad limp from an old fight with a fox. He should not have been a warrior. He could not run. He could not hunt long-distance. By rights, he should have stayed in the camp and helped with the kits. But when the messenger came, Bigheart limped to the front of the gathering crowd and stood there with his head high, and he said: *I will go.*"
 
 "Did they let him?" Celerypaw asked.
 
@@ -423,9 +415,7 @@ She paused.
 
 "Did Bigheart die?" Acornpaw whispered.
 
-Smokefur did not answer for a long moment.
-
-"He came home," she said finally. "Not all the toms who marched out beside him did. He came home with a worse limp and one more torn ear and a quietness in him that had not been there before. He sat on his old spot on the porch in front of the brewery for the rest of his moons. The kits used to climb on his back, and he would tell them the stories of the long march, and he would make them laugh. But every once in a while, when the wind blew in a certain way and brought the smell of gunpowder from the Twoleg festival on the river, his torn ear would twitch, and he would close his eyes for a moment, and then he would open them, and he would smile at the kits and tell another story."
+"He did not. He fought in three battles. He came back with a worse limp and one more torn ear, and he sat on his old spot on the porch in front of the brewery for the rest of his moons, and the kits used to climb on his back and he would tell them the stories of the long march and the long battles. He made it sound like a great adventure. He never said a single word about being afraid. But every once in a while, when the wind blew in a certain way and brought the smell of gunpowder from the Twoleg festival on the river, his torn ear would twitch, and he would close his eyes for a moment, and then he would open them, and he would smile at the kits and tell another story."
 
 "Why did the Twolegs call Tennessee the Volunteer State?" Acornpaw asked.
 
@@ -455,7 +445,7 @@ They went home.
 
 That night, lying in his bed of moss, Acornpaw thought about Bigheart, and about how Bigheart had limped to the front of the crowd with his head up. He thought about the smell of gunpowder. He thought about Celerypaw's words: *figure out the brave part later.*
 
-He fell asleep with Bigheart's torn ear twitching in his head. He did not know yet that smells can carry across years.
+He did not know it yet, but in three sunrises' time, he was going to do exactly that.
 
 > **From the Twoleg world:** Tennessee really is called "The Volunteer State." The nickname comes from the War of 1812, when President James Madison asked for 1,500 volunteers to fight in the Battle of New Orleans, and Tennessee responded with over 3,500 men in a matter of weeks. The reputation grew during the Mexican-American War, when the federal government again asked Tennessee for 2,800 men and got 30,000 volunteers. Andrew Jackson — a Tennessean — led many of them at New Orleans. Today the University of Tennessee's mascot is the Volunteer, and football crowds in Knoxville still chant the word with a kind of fierceness that surprises visitors.
 
@@ -473,7 +463,7 @@ The Smoky Mountains rose in long blue waves, rank after rank, each paler than th
 
 "Why do they smoke?" Acornpaw asked.
 
-"They do not, really. The trees breathe out a kind of mist. From far away it looks like smoke. The Cherokee called the mountains *Shaconage* — say it *shah-KON-uh-jay*. It means 'place of blue smoke.' I think that is the best name any place has ever had."
+"They do not, really. The trees breathe out a kind of mist. From far away it looks like smoke. The Cherokee called the mountains *Shaconage* — 'place of blue smoke.' I think that is the best name any place has ever had."
 
 "Do cats live there?"
 
@@ -493,7 +483,7 @@ Acornpaw considered this. "Twolegs make a lot of promises."
 
 She paused, and her cloudy eyes seemed to focus on something far away.
 
-"There is a story they tell, in MountainClan, about the night the fireflies sing together. Once every greenleaf, for a small handful of nights, every firefly in a certain valley flashes at the same instant. Off, on, off, on, a thousand thousand of them, like the mountain itself is breathing light. No cat knows why. No Twoleg, either. It is one of the great mysteries of the world."
+"There is a story they tell, in MountainClan, about the night the fireflies sing together. Once every greenleaf, for one or two nights only, every firefly in a certain valley flashes at the same instant. Off, on, off, on, a thousand thousand of them, like the mountain itself is breathing light. No cat knows why. No Twoleg, either. It is one of the great mysteries of the world."
 
 "Have you seen it?"
 
@@ -573,25 +563,19 @@ Both apprentices nodded.
 
 "Long ago," said Smokefur, "before there was a Knoxville, there were Cherokee Twolegs and Cherokee cats living all up and down the Tennessee River. They had been here for many many many moons. They had built towns. They had farms. They had schools — schools, kits, where their kits learned Markpelt's eighty-five symbols. They had a council house in every village. They had laws. They had gardens of corn and beans and squash. They were not visitors here. They were *home* here.
 
-"Then more and more white Twolegs came. The white Twolegs wanted the land. The Cherokee Twolegs said: *we are already here, we have been here forever. We have our own laws, our own council, our own newspaper printed in Markpelt's letters. We are a nation.* The white Twolegs heard this. They did it anyway. They had a great Twoleg chief in the eastern places — his name was Andrew Jackson, the same Tennessee chief who had once led the Volunteers at New Orleans — and Andrew Jackson said: *the Cherokee must go west. They must walk to a new country we have set aside for them, far across the great river, in a land none of them have ever seen. And if they do not go, we will make them go.*"
+"Then more and more white Twolegs came. The white Twolegs wanted the land. The Cherokee Twolegs said: *we are already here, we have been here forever.* The white Twolegs said: *we want it anyway.* And the white Twolegs were many, and they had iron tools, and rifles, and an army, and a great Twoleg chief in the eastern places who said: *the Cherokee must go west. They must walk to a new country we have set aside for them, far across the great river, in a land none of them have ever seen. And if they do not go, we will make them go.*"
 
 "That's not fair," Acornpaw said, and his voice was tight.
 
-"No," said Smokefur. "It was not fair. It was very far from fair. And many cats, white and Cherokee both, and many Twolegs, white and Cherokee both, said so. They said so loudly. They said so to Andrew Jackson. They wrote letters. They argued in council houses. A few of them even crossed the great water and asked the kings of other countries to help. But Andrew Jackson said: *go anyway.*"
+"No," said Smokefur. "It was not fair. It was very far from fair. And many cats, white and Cherokee both, and many Twolegs, white and Cherokee both, said so. They said so loudly. They said so to the great Twoleg chief. They wrote letters. They argued in council houses. A few of them even crossed the great water and asked the kings of other countries to help. But the great Twoleg chief said: *go anyway.*"
 
 "What happened to Gentlepelt?" Celerypaw asked quietly.
 
-"She walked west. With her clan. With the Twolegs of her village. They walked a very long way. It was leaf-fall when they started, and leaf-bare came in the middle of their walking. Many of them did not get to where they were going. The walk has a Cherokee name. It is called *Nunna daul Tsuny* — say it *NUN-nah DOWL TSOO-nee*. It means 'the trail where they cried.' In the Twoleg histories it is called the Trail of Tears."
+"She walked west. With her clan. With the Twolegs of her village. They walked a very long way. It was leaf-fall when they started, and leaf-bare came in the middle of their walking. Many of them did not get to where they were going. The walk has a Cherokee name. It is called *Nunna daul Tsuny.* In the Twoleg histories it is called the Trail of Tears."
 
 Acornpaw was crying without knowing he was crying. Celerypaw pressed her nose into his shoulder.
 
-Smokefur let the silence hold for a long moment. She did not rush past it. The grief was real. It was its own thing.
-
-"Listen," she said finally. "I am not going to skip over the dying, kits. Many cats Gentlepelt loved did not get there. Cats she had hunted with. Cats whose kits she had purred to sleep. The names of those cats walked the rest of the way with her, in her ears, in her chest. She walked carrying them. That carrying made her heavier and stronger at the same time, in the way that grief sometimes does."
-
-She paused.
-
-"But Gentlepelt got there. Gentlepelt was strong. She had grown up swimming in the cold rivers. She had grown up walking up steep ridges to gather chestnuts. She had legs that did not stop. And she had *Whitewhisker's voice* in her ears, telling her about how Whitewhisker had once stayed up all night purring a sick Twoleg kit back to sleep, and that purring is what cats do when nothing else can be done, and so on the cold nights of the walk, Gentlepelt walked beside the Cherokee kits and purred them through their nights. And many of them lived because of it.
+"But," said Smokefur, and she said it firmly, "but. Listen. Gentlepelt got there. Gentlepelt was strong. She had grown up swimming in the cold rivers. She had grown up walking up steep ridges to gather chestnuts. She had legs that did not stop. And she had *Whitewhisker's voice* in her ears, telling her about how Whitewhisker had once stayed up all night purring a sick Twoleg kit back to sleep, and that purring is what cats do when nothing else can be done, and so on the cold nights of the walk, Gentlepelt walked beside the Cherokee kits and purred them through their nights. And many of them lived because of it.
 
 "Gentlepelt got to the new country. It was strange to her at first. The trees were different. The rivers ran in different directions. But she was Gentlepelt, and she made a new home. She had kits there. Her kits had kits. Her kits' kits had kits. There are cats in the western country today, in the place the Twolegs call Oklahoma, who carry a piece of Gentlepelt's blood in their veins. Some of them remember her name. They remember her as the cat who taught them how to purr through the cold."
 
@@ -601,7 +585,7 @@ She paused.
 
 Celerypaw was very still. "Smokefur. Are there Cherokee cats here now? In our hollow?"
 
-"There are. Some Cherokee did not walk. They went into the deepest hollows of the Smokies — those same blue mountains you can see from our porch — and they hid until the soldiers gave up looking. Their grandchildren's grandchildren live there still, in a town called Cherokee, on the Oconaluftee River, where cats chase fish in the cold shallows and kits play stickball in the council yard. They have their own nation now, their own land, their own schools where Markpelt's letters are still taught. They are called the Eastern Band of Cherokee Indians. The mountains hid them, and they kept the mountains. That is its own kind of victory, kits. Not every survival looks like a long walk. Some survivals look like *staying*. And once a year, in greenleaf, some of the cats from the western country come down to a great gathering with the cats of the Eastern Band, and they tell their stories together, and they remember Gentlepelt and all the other cats who made the walk and all the other cats who hid."
+"There are. Some Cherokee Twolegs and Cherokee cats hid in the deepest hollows of the mountains during the walk and did not go. Their descendants live in those hills today. They have their own land now. They are called the Eastern Band. There are still Cherokee cats living there. And once a year, in greenleaf, some of them come down to a great gathering with the western Cherokee, and they tell stories together, and they remember Gentlepelt and all the other cats who made the walk and all the other cats who hid."
 
 "I want to go to that gathering one day," Acornpaw said.
 
@@ -617,7 +601,7 @@ He thought about Gentlepelt walking. He thought about her not stopping. He thoug
 
 He did not have a word for what he was feeling. But it sat in his chest like a small warm coal, and he carried it for the rest of that day, and for many days after, and he never quite put it down.
 
-> **From the Twoleg world:** The Trail of Tears was the forced removal of the Cherokee, Choctaw, Muscogee, Chickasaw, and Seminole peoples from their ancestral homelands in the southeastern United States to lands west of the Mississippi River, between 1830 and 1850. President Andrew Jackson signed the Indian Removal Act of 1830 into law and oversaw the removals. Of the roughly 16,000 Cherokee who walked the Trail, around 4,000 died from cold, hunger, and disease. The Cherokee call the journey *Nunna daul Tsuny* — "the trail where they cried." The Cherokee Nation survived this and carries the memory of it. Today there are three federally recognized Cherokee tribes — the Cherokee Nation and the United Keetoowah Band, both in Oklahoma, and the Eastern Band of Cherokee Indians in North Carolina, descendants of those who hid in the deep mountain hollows. The Cherokee language still uses Sequoyah's syllabary. The story is still being told because the people are still telling it.
+> **From the Twoleg world:** The Trail of Tears was the forced removal of the Cherokee, Choctaw, Muscogee, Chickasaw, and Seminole peoples from their ancestral homelands in the southeastern United States to lands west of the Mississippi River, between 1830 and 1850. Of the roughly 16,000 Cherokee who walked the Trail, around 4,000 died from cold, hunger, and disease. The Cherokee call the journey *Nunna daul Tsuny* — "the trail where they cried." But the Cherokee Nation survived. Today there are three federally recognized Cherokee tribes — the Cherokee Nation and the United Keetoowah Band, both in Oklahoma, and the Eastern Band of Cherokee Indians in North Carolina, on the lands of those who hid in the deep mountain hollows. The Cherokee language still has Sequoyah's syllabary. The story is still being told. It is still going.
 
 ---
 
@@ -737,7 +721,7 @@ Celerypaw considered him for a long moment.
 
 "I will."
 
-She sighed. It was the sigh of a denmate who has decided that the best she can do is not let him go alone.
+She sighed, and the sigh was the sigh of an older sister who has known her brother since they were both kits in the same nest, even though they were not really brother and sister by blood, only by circumstance. The sigh was: *I love you and I cannot stop you and I am coming with you because you cannot be trusted alone.*
 
 "I am coming with you," she said.
 
@@ -866,11 +850,7 @@ Then she said: "You are doing the shame thing."
 
 Acornpaw closed his eyes. He breathed once. Twice.
 
-He breathed.
-
-The shame was hot under his fur. He could feel it in his ears, in his throat, in the soft place behind his eyes. It wanted him to lie down in the leaves and stay there.
-
-He thought, very small: *Smokefur has been lost too. Mothpelt has been lost too. Even Stonestar, once.*
+He had a strange small inner voice. The voice was not his exactly. It was a voice he had been trying out. The voice said: *You did a foolish thing. Foolish things happen to everyone. The shame is the part of you that loves Celerypaw and Mothpelt and the clan. The shame is good. But the shame is not the whole of you. The whole of you can put the shame in your pocket and stand up and walk forward. Stand up. Walk forward.*
 
 He stood up. He walked forward.
 
@@ -996,9 +976,9 @@ She was gone.
 
 Acornpaw sat in the dim light of the falling-in hole and looked at the dark passage at the back of the cave.
 
-He stood up. He shook himself off. He pressed his nose to the cold cave wall and felt for the wind.
+He stood up. He shook himself off. He thought of the small inner voice again. *You are afraid. Afraid is fine. Afraid is what an apprentice should be in a cave. Afraid is also what you do not have to obey. Walk toward the wind.*
 
-There was wind. He walked into it.
+He walked into the passage.
 
 The passage went down.
 
@@ -1224,7 +1204,7 @@ He blinked at her, confused.
 
 "Cats do not drink tea."
 
-"I know," she said. "But you'll be old enough to want some by then. Mark my words."
+"I know," she said gravely. "It is a metaphor."
 
 She walked away.
 
@@ -1250,27 +1230,49 @@ A small sleek brown she-cat appeared on the path ahead of them. She had been sun
 
 "Please," Celerypaw said.
 
-Springflight stretched, then froze mid-stretch — a vole had moved in the grass behind her. Her tail twitched once. She let it go.
+Springflight stretched. "It is a *dam*. The Twolegs built it many many moons ago, in a time when this whole valley was poor and dark and could not find work. They built it to do two things. One: hold back the river. Two: capture the river's strength. The river falls from one side of the wall to the other, and as it falls, the Twolegs catch its strength in great spinning machines. The strength they catch becomes *light*."
 
-"It is a *dam*," she said, returning her attention to the apprentices as though nothing had happened. "Press your paw to the concrete sometime. You'll feel it humming, like a giant cat purring inside the wall. Only the cat is the river, and the river never stops."
+"Light?" Acornpaw asked.
 
-"What does it *do*?" Celerypaw asked.
+"Light, my kit. Watch tonight. Walk to a high place at moonhigh and look out. Every light you see in every Twoleg dwelling — every streetlamp, every porch, every window — *every one of them is the river falling.* The river runs through the wall and comes out the other side as light, in every Twoleg dwelling for many many many mile-walks around. The Twolegs call this *electricity*. It is the most magical thing they have ever made."
 
-"It catches the river's strength. Watch tonight — go to a high place at moonhigh. Every light you see in any Twoleg dwelling for many mile-walks — streetlamps, porches, windows — *every glow is a piece of this river falling.* The Twolegs call it *electricity.* They think it is the most magical thing they ever made. I think the river was magical first."
+Celerypaw's eyes were huge.
 
-Celerypaw's eyes were huge. "The lights are alive with the river?"
+"You mean the lights are alive with the river?"
 
-"Exactly so."
+"Exactly so. Every light in your hollow is a river running."
 
-Acornpaw was already working it out, his tail twitching the way it did. "Springflight — if I follow the lights, they will take me home. Won't they?"
+Acornpaw thought about this. He thought about all the streetlamps coming on at dusk when he was a kit. He thought about the warm windows of his own Twolegs.
 
-"If you know which lights are *your* lights, kit. Yes." She glanced again at where the vole had been, and her ears flicked. "Long ago this valley was poor and dark. The Twolegs had no work. The kits had no food. So they built this wall, and many others on many rivers, and the rivers became light, and the hungry Twolegs got work, and the kits got fed. My grandmother's grandmother was the first chief mouser of this place. I am the most recent." She paused, and her voice went quiet. "I am proud of my work."
+"Springflight," he said slowly, "if I follow the lights — if I follow the strings of black ropes you mentioned — they will take me to all the dwellings, won't they? They will take me to the Twolegs?"
+
+"Yes."
+
+"Then they will take me home."
+
+Springflight smiled. "If you know which lights are *your* lights, kit. Yes. They will take you home."
+
+She paused.
+
+"There is a story about this dam. Would you like to hear it?"
+
+Celerypaw and Acornpaw sat down. Of course they wanted to hear it.
+
+"Once," said Springflight, "this whole valley was hungry. A great Twoleg sickness had swept across the country — not a body sickness, a *money* sickness. The Twolegs had no work. They had no food. The cats who lived in the valley grew thin. The kits had nothing in their bellies.
+
+"A great chief came to the valley. He looked around. He said: *we will build a wall on the river. We will catch the river's strength. We will hire every hungry Twoleg in this valley to help us build it.* And so they did. They built this wall. And they built many other walls on other rivers. And the rivers became *light*. And every dwelling in this valley got the magical light, even the smallest cabin on the highest ridge. And the hungry Twolegs were not hungry anymore, because they had work, and the kits had food in their bellies, and the cats grew sleek again."
+
+"That is a wonderful story," Acornpaw said.
+
+"It is a true one," said Springflight. "And there is a second part. Listen.
+
+"After the wall was built, a small clan of cats came to live near the wall, to keep the mice out of the great spinning machines. *Cats run the dam,* the Twolegs say in this valley, although the Twolegs say it as a joke. It is not a joke. We do run it. My grandmother's grandmother was the first chief mouser of this place. I am the most recent. We have been here as long as the lights have been on, and the lights have been on a long time now. I am proud of my work."
 
 Celerypaw bowed. "Thank you for sharing your story, Springflight."
 
-"Thank *you* for sitting still long enough. Most apprentices don't." She glanced one last time at where the vole had vanished into the grass. "Now go. The river will take you home. Stay close to the bank. Sleep away from the thunderpath. And never, never sleep on the great black ropes — they are warm and they will tempt you. Resist."
+"Thank you for sitting still long enough to hear it. Most apprentices do not. Now go. The river will take you home. Stay close to the bank. Sleep at the right place — not too close to the thunderpath. And never, never sleep on the great black ropes. They are warm and they will tempt you. Resist."
 
-She winked at them. Then she was off the rock and into the grass after the vole, gone.
+She winked at them. She padded off across the flat rock and was gone.
 
 Celerypaw and Acornpaw walked on along the river.
 
@@ -1324,7 +1326,7 @@ Acornpaw felt a strange jolt. He had heard about a black cat with quiet paws in 
 
 The black tom blinked once, slowly.
 
-"That is not my name," he said. His voice was as soft as his paws. "That was my great-grandfather's grandfather's name. I am called Lampblack. But you are right that he was my ancestor. How does an apprentice from MarbleClan know his name?"
+"That is not my name," he said. His voice was as soft as his paws. "That was my great-great-great-grandfather's name. I am called Lampblack. But you are right that he was my ancestor. How does an apprentice from MarbleClan know his name?"
 
 "Smokefur told us," Celerypaw said.
 
@@ -1364,9 +1366,9 @@ There was a long silence.
 
 Lampblack answered.
 
-"The cats kept the mice out of the wires. That was our work. My great-grandfather's grandfather — *Quietpaw* — walked the long building called the K-twenty-five every night. It was so vast you could not see one end from the other — a U-shape, so the spinning machines inside could pass their work hand to hand without ever stopping. He kept the mice out of the wires. Without him, the work would have failed in many small accidental ways. He did this his whole life. He never left this valley. He died here. He is buried under a flowering pear tree near the third entrance to Y-twelve. We tend the pear tree. We always will."
+"The cats kept the mice out of the wires. That was our work. My great-great-great-grandfather Quietpaw walked the great long building called the K-twenty-five every night. The K-twenty-five was so long it had a curve in it, to follow the curve of the world. He kept the mice out of the wires. Without him, the work would have failed in many small accidental ways. He did this his whole life. He never left this valley. He died here. He is buried under a flowering pear tree near the third entrance to Y-twelve. We tend the pear tree. We always will."
 
-Acornpaw was very moved. He had not thought, when Smokefur had told him the story of Quietpaw, that there would still be a great-grandson's grandson, here, telling it forward.
+Acornpaw was very moved. He had not thought, when Smokefur had told him the story of Quietpaw, that there would still be a great-great-great-grandson, here, telling it forward.
 
 "What is the name of the work?" Acornpaw asked.
 
@@ -1406,63 +1408,87 @@ Acornpaw and Celerypaw walked east, into the dusk, toward the warmth.
 
 That night they slept in an old shed behind a Twoleg cabin that smelled of wood smoke. They were too tired to take watches. They slept curled tight against each other.
 
-Celerypaw woke first. The shed smelled of wood smoke and old hay. Acornpaw was still asleep beside her, his ginger fur warm against her flank. Outside the cracked-open door, music was coming from somewhere — bright twangy music, pulled out of a stringed instrument, with a high silver voice singing along to it.
+In the deep middle of the night, a strange thing happened. Celerypaw began to dream.
 
-She got up carefully so as not to wake him.
+She dreamed she was flying. (She often dreamed she was flying — Celerypaw was a *lucid dreamer*, which means she sometimes woke up inside her dreams and could choose what happened next.) She flew low over the mountains. The blue smoke rose around her wings. The fireflies sang together in the valley below her. She flew east, toward home.
 
-She nosed her way through the gap in the shed door.
+She flew over a small mountain town. Twoleg dwellings clustered in the valley. Music came out of one of the dwellings — bright twangy music, pulled out of a stringed instrument, singing along in a high silver voice.
 
-Across a small dirt yard, on a wooden mountain stage at the back of a Twoleg cabin, a great gold-and-white she-cat was sitting in the lap of a Twoleg who was strumming the stringed thing. The cat looked perfectly at home. Her fur was long and soft and the morning light caught the gold of it. Her eyes were closed, listening.
+She circled down toward the music.
+
+A great gold-and-white she-cat was sitting on a wooden mountain stage. Her fur was long and soft. Her eyes were deep and warm. She was singing.
 
 The song was about going home. It was about an old paw road and the smell of mountain laurel and a porch where someone you love is waiting up. It was a song that carried in it everything Celerypaw was feeling about her own porch and her own Mothpelt and her own Smokefur.
 
-When the song ended, the gold cat opened her eyes and looked straight at the gap in the shed door, where Celerypaw's small calico head was poked out.
+The gold cat finished her song. She looked up. Her eyes met Celerypaw's, even though Celerypaw was a flying ghost in a dream.
 
-"Hello, kit," she said softly, so as not to startle the Twoleg.
+"Hello, kit," said the gold cat.
 
-Celerypaw padded into the dirt yard. "Hello," she said. "Who are you?"
+"Hello," said Celerypaw. "Who are you?"
 
-"I am the Singer of these mountains. My Twoleg calls me Dolly. The cats call me by what I do. What brings you to my back porch on a cold morning?"
+"I am Singer of these mountains. The Twolegs call me Dolly. The cats call me by what I do. Why are you flying through my mountains tonight?"
 
-"I am almost home," said Celerypaw, "but I have one more long day of walking, and my brother is asleep, and I am very tired, and the song you were singing made me cry without meaning to."
+"I am lost," said Celerypaw, "but I am almost home. I just have one more long day's walking. I am very tired."
 
-Singer smiled. "Sit, then. I will sing you a quieter one. The Twoleg will play it again if I purr at her right."
+Singer smiled.
 
-The Twoleg looked down, as Twolegs do, sensing something. She started a softer song. It was a song about being a big sister and looking after a little brother — how the looking-after never gets any easier and never feels any less worth it. Celerypaw felt it move through her like warm water.
+"Then sit down for a moment, kit. I will sing you another. You can take it with you. You will need it tomorrow."
 
-When the Twoleg finished, Singer turned her gold head and looked at Celerypaw with her deep warm eyes.
+Celerypaw sat down on the wooden stage. Singer began another song. It was a gentler song than the first. It was a song about being a big sister and looking after a little brother and how the looking-after never gets any easier and never feels any less worth it. Celerypaw felt the song move through her like warm water. When Singer finished, Celerypaw was crying.
 
-"Take it with you, kit. Songs are for sharing. When you need it, you will have it."
+"Thank you," she said.
 
-"Why do you sing?" Celerypaw asked.
+"Of course, kit. Songs are for sharing. That is the point of them. Take this one. Take it home. When you need it tomorrow, you will have it."
 
-Singer glanced up at the mountains all around them. "I was born in these mountains, kit. In a small dwelling on a hill, with so many sister-cats around me I could hardly remember all our names. My family was poor. The mountain was rich, but the Twolegs in it were poor. We did not have much. What we had was each other and music. So I made music. I made it about kits who have no shoes and old toms who fish in the river and she-cats who work hard and laugh harder. I made it because the mountains were full of stories that nobody else was telling. Somebody had to."
+"Why are you here, in the mountains? Why do you sing?"
 
-"Like Markpelt," Celerypaw whispered.
+Singer looked off across the mountains. Her gold fur glowed in the dream-light.
 
-Singer's ears pricked forward sharply. "You know Markpelt?"
+"I was born in these mountains, kit. In a small dwelling on a hill, with so many sister-cats around me I could hardly remember all our names. My family was poor. The mountain was rich, but the Twolegs in it were poor. We did not have much. What we had was each other and music. So I made music. I made it all my life. I made it about the mountains. About my mother. About my father. About my sisters. About kits who have no shoes and old men who fish in the river and women who work hard and laugh harder. I made it because the mountains *deserve* music. Mountains are full of stories that nobody tells. Somebody had to tell them."
 
-"Smokefur of MarbleClan tells him."
+"Like Markpelt," Celerypaw whispered. "He saw the missing thing and he had to build it."
 
-"Ah. *Smokefur.* She came to one of my Twoleg's concerts many moons ago, when her green eyes were still sharp. She sat in the back row and did not move all night. Tell her — tell her the Singer remembers her green eyes."
+Singer turned her head sharply, with great interest.
+
+"You know Markpelt's story?"
+
+"Smokefur of MarbleClan tells it."
+
+"Ah. Smokefur. I remember Smokefur. She came up to one of my concerts many many moons ago, when she was young and her green eyes were sharp. She sat in the back row and did not move all night. After the concert, she came up to the edge of my stage and bowed, and she said: *Thank you for telling the stories.* I never forgot her. Tell her — tell her Singer remembers her green eyes."
 
 "I will."
 
-"Now go, kit. Wake your brother. You have a walk to finish."
+"Now go, little kit. Wake up. You have a long walk tomorrow. You will use my song. I gave it to you for a reason."
 
-The Twoleg started one more song. Singer settled back into her lap with a slow contented purr. Celerypaw padded back through the gap in the shed door and found Acornpaw stirring in the hay.
+Celerypaw woke up.
 
-"Wake up. We are going home today."
+It was dawn. Acornpaw was still asleep beside her, his ginger fur warm. The shed smelled of wood smoke and old hay. Outside, the eastern sky was beginning to glow.
 
-He blinked. "How do you know?"
+Celerypaw lay there for a long moment.
 
-She thought about telling him. She decided not to, not yet. The song was hers for now, folded inside her like a small warm thing. He would learn about it in his own time.
+The song was inside her. She could hear it whenever she wanted it.
 
-"I just know," she said.
+She licked Acornpaw on the nose.
+
+"Wake up, brother. We are going home today."
+
+He opened his eyes.
+
+"How do you know?"
+
+"I had a dream."
+
+"...what kind of dream?"
+
+"The kind that knows things."
+
+He blinked at her. "You have those?"
+
+"Sometimes." She looked away modestly. "Just sometimes."
 
 They walked east.
 
-> **From the Twoleg world:** Dolly Parton was born in 1946 in a one-room cabin on Locust Ridge, in the hills outside Sevierville, Tennessee, the fourth of twelve children. She built Dollywood — the theme park near Pigeon Forge — partly to bring jobs back to the Smoky Mountains where she grew up. Her Imagination Library has given more than 250 million free books to children around the world. She has written over 3,000 songs, including *I Will Always Love You*, *Coat of Many Colors*, and *Jolene*. Her Tennessee Mountain Home cabin, lovingly recreated at Dollywood, is open for kids to walk through.
+> **From the Twoleg world:** Dolly Parton was born in Sevierville, Tennessee, in a small one-room cabin on the bank of the Little Pigeon River, the fourth of twelve children. She grew up poor in the Smoky Mountains. She has been a singer, songwriter, businesswoman, and philanthropist for over sixty years, and she famously built Dollywood, the theme park near Pigeon Forge, partly to give jobs back to the people of the Smoky Mountains where she grew up. Her Imagination Library has given over 200 million free books to children around the world. She has written more than 3,000 songs — including "I Will Always Love You" and "Coat of Many Colors" — and she has said many times that she sings because the mountains are full of stories that nobody tells, and somebody had to tell them.
 
 ---
 
@@ -1512,15 +1538,15 @@ Celerypaw thought.
 
 "Yes."
 
-"I learned that there is a Singer in the mountains. I met her, on a back porch, in the flesh. A great gold-and-white she-cat in a Twoleg's lap. She sang for me."
+"I learned that there is a Singer in the mountain who knows my dreams."
 
 Smokefur startled. Her cloudy eyes widened.
 
-"You met her *in the flesh*?"
+"You met her?"
 
-"Yes."
+"I dreamed her."
 
-"Ah. *Ah.* Most cats only dream her. You are very lucky, kit." She looked at Celerypaw with new respect. "What did she tell you?"
+"Ah. *Ah.* Of course. She comes in dreams. I had not thought she would come for you. You are very young." She looked at Celerypaw with new respect. "What did she tell you?"
 
 "That the mountains are full of stories nobody tells, and somebody had to tell them. And she gave me a song."
 
@@ -1564,7 +1590,7 @@ He nodded.
 
 He nodded.
 
-"Then the lostness was a kind of party too. It was a small private party that you threw for yourself, and StarClan came, and so did Celerypaw, and so did Singer, and so did Lampblack, and so did MountainClan, and so did Smokey and Onyx of the Hill of Many Lights, and so did I, sitting here on the bluff for two days. Eleven million cats and Twolegs came to your party, kit. You did not see them. They were there. They are always there. The world is full of them. And now you have come home."
+"Then the lostness was a kind of party too. It was a small private party that you threw for yourself, and StarClan came, and so did Celerypaw, and so did Singer, and so did Quietpaw's great-great-great-grandson, and so did MountainClan, and so did Smokey and Onyx of the Hill of Many Lights, and so did I, sitting here on the bluff for two days. Eleven million cats and Twolegs came to your party, kit. You did not see them. They were there. They are always there. The world is full of them. And now you have come home."
 
 Acornpaw could not speak.
 
@@ -1594,7 +1620,7 @@ She paused.
 
 "And so when the southern leaders tried to gather East Tennessee Twolegs into the southern army, many many of them refused. Some of them ran north and joined the northern army instead. Some of them hid in the deep hollows and waited the war out. Some of them just stood on their porches and shook their heads. And the southern leaders, when they came through East Tennessee, treated the local Twolegs like enemies in their own country.
 
-"The cats of MarbleClan in those days were torn in half. Some of us followed our Twolegs north. Some of us stayed with our Twolegs at home, trying to keep the kits safe. There was a great fight here in Knoxville one autumn — a fight at a place called Fort Sanders, just west of downtown on this same side of the river. The southern army came up against the fort. The northern army held it. The assault was over in less time than it takes the sun to move a paw's-width across the sky — but the cats remember it. We remember which clanmates left and never came back. We remember which Twolegs took the cats with them when they fled. We remember which of our she-cats stayed up all night with the wounded and which of our toms stood guard at the edge of the camp until dawn. The fort was held. The southern army went home. The war went on for many more moons. And East Tennessee, when the war finally ended, was on the winning side."
+"The cats of MarbleClan in those days were torn in half. Some of us followed our Twolegs north. Some of us stayed with our Twolegs at home, trying to keep the kits safe. There was a great fight here in Knoxville one autumn — a fight at a place called Fort Sanders, just on the west side of the river. The southern army came up the river. The northern army held the fort. The fight lasted only a few hours but the cats remember it. We remember which clanmates left and never came back. We remember which Twolegs took the cats with them when they fled. We remember which of our she-cats stayed up all night with the wounded and which of our toms stood guard at the edge of the camp until dawn. The fort was held. The southern army went home. The war went on for many more moons. And East Tennessee, when the war finally ended, was on the winning side."
 
 "That is a strange thing," Acornpaw said. "To be on the winning side of a war when your whole country was on the losing side."
 
@@ -1642,22 +1668,6 @@ They walked the rest of the way home together.
 
 ## Epilogue: The Voice in the Theatre
 
-Riverflight reached them first. She had been on a long patrol along the river bank, casting for any sign of them, and she had cut up across the iron bridge at speed when she saw two small dirty cats stumbling toward the city. She did not say a word at first. She just shouldered between them and walked them the last quarter-mile in, one apprentice on each side, her whole body a moving wall of *I am here.*
-
-"You are filthy," she said finally, when they were almost home.
-
-"Yes," Acornpaw said.
-
-"Mothpelt is going to be unbearable."
-
-"Yes."
-
-"Stonestar will give a speech."
-
-"Yes."
-
-She huffed once. "Good. You earned the speech." And she did not say anything else.
-
 Mothpelt was waiting at the porch. She did not say anything when she saw them. She did not need to. She licked Celerypaw's ear and then Acornpaw's ear and then sat down hard, like a cat whose legs had been holding her up only out of stubborn habit.
 
 "Three days," she said, when she could speak. "I have aged three moons in three days."
@@ -1704,17 +1714,7 @@ Stonestar stepped forward.
 
 He spoke softly so that the Twolegs would not hear. But all the cats heard.
 
-"I, Stonestar, leader of MarbleClan, call upon my ancestors to look down on these two apprentices. They have walked further than most apprentices ever walk. They have learned their hollow. They have learned its edges. They have learned that a clan is held together not by paws but by stories. They have crossed waters they did not know how to cross. They have come home."
-
-He paused.
-
-"Acornpaw. Celerypaw. Do you promise to uphold the ways of MarbleClan — to defend this clan, to hunt for it, to carry its stories forward — even at the cost of your lives?"
-
-"I do," said Acornpaw.
-
-"I do," said Celerypaw.
-
-"Then by the powers of our ancestors, I give you your warrior names."
+"I, Stonestar, leader of MarbleClan, call upon my ancestors to look down on these two apprentices. They have walked further than most apprentices ever walk. They have learned their hollow. They have learned its edges. They have learned that a clan is held together not by paws but by stories. They have crossed waters they did not know how to cross. They have come home. They are ready for the warrior name."
 
 He turned to Acornpaw.
 
@@ -1728,47 +1728,25 @@ He turned to Celerypaw.
 
 Celeryflight bowed her head. Her new name felt like an old coat that had always fit her.
 
-For a long moment no cat moved. Somewhere down the street, a Twoleg laughed through the theatre door and was gone.
-
-And then, very softly, almost to herself, Celeryflight began to hum. It was not a song any cat in MarbleClan had heard before. It was a song about going home — about an old paw road and the smell of mountain laurel and a porch where someone you love is waiting up. Singer of the mountain had given it to her on a back porch far away in the mountain-country, and Celeryflight had carried it home folded inside her, waiting for the moment that needed it. This moment needed it.
-
-Smokefur's old eyes filled. She had heard that song long before, in a back row of Singer's concert, when her own green eyes were sharp. She had not heard it in many many moons. She closed her eyes and let it land.
-
-When Celeryflight finished, the clan touched noses with each new warrior, one at a time. There were no words. There did not need to be.
+The clan touched noses with each new warrior, one at a time. There were no words. There did not need to be.
 
 Behind them, the theatre erupted in laughter and applause. Above them, the real stars were coming out — first one, then two, then a whole spreading dust of them, the way StarClan always comes when you finally bother to look up.
 
 Acornleap closed his eyes.
 
-He could feel the river running past, and the marble shining quietly under the hills, and the mountains breathing blue smoke in the distance, and the gold ball glowing over downtown, and the deep cold breath of the underground sea, and the hum of the great dam carrying the river's strength out into a thousand small lights, and Lampblack tending the flowering pear tree above his great-grandfather's grandfather's grave, and Whitewhisker's purr coming up faintly through the rooftop tiles of the old fort.
+He could feel the river running past, and the marble shining quietly under the hills, and the mountains breathing blue smoke in the distance, and the gold ball glowing over downtown, and the deep cold breath of the underground sea, and the hum of the great dam carrying the river's strength out into a thousand small lights, and Singer of the mountain humming her old songs in her sleep, and Lampblack tending the pear tree above his great-great-great-grandfather's grave, and Smokey and Onyx asleep on the Hill of Many Lights, and Bigheart's torn ears in his old porch ghost still listening for the wind from the south, and Whitewhisker's purr coming up faintly through the rooftop tiles of the old fort, and Markpelt's eighty-five symbols flowing down from the western country in books that were still being written, and Gentlepelt walking under the willow somewhere in a world that no longer was.
 
 His own hollow. His own clan. His own home.
 
 He opened his eyes.
 
-He looked across the street, up at the high lit window of the theatre. He could see them, faint behind the glass — a brown-haired boy leaning so far forward in his seat his nose was almost touching the row in front of him, and a smaller girl beside him with her shoulder pressed into his, the way Celeryflight's shoulder was pressed into his right now.
-
-Acornleap dipped his head. Across the curb, across the street, through the glass, neither Twoleg kit saw him. That was all right. Cats do not need to be seen to bless a thing.
-
 The stars wheeled slowly over Knoxville.
 
 Celeryflight pressed her shoulder into his.
 
-"Acornleap," she said quietly, "we made it."
+"Brother," she said, "we made it."
 
-"Celeryflight," he said, "we did."
-
-He blinked at her. "That song. You never told me."
-
-"I was saving it."
-
-"For this?"
-
-"For this."
-
-He was silent a moment. "I want to meet her too, one day."
-
-"We'll go together," she said.
+"Sister," he said, "we did."
 
 Smokefur, behind them, smiled with her cloudy eyes.
 
@@ -1780,9 +1758,7 @@ Smokefur, behind them, smiled with her cloudy eyes.
 
 *Every story in this book is true, more or less.*
 
-The cats are made up, but the places are real. James White really built his fort. Sequoyah really invented his syllabary. The Smoky Mountains really do breathe blue smoke. Davy Crockett really voted against Indian Removal and lost his seat for it. Tennessee really is the Volunteer State. The TVA really did light up the valley. Oak Ridge really was secret. The Lost Sea really was found by a thirteen-year-old boy. Dolly Parton really did grow up poor in the mountains and write three thousand songs. The Sunsphere really is gold and really did host the world. East Tennessee really did stay loyal to the Union.
-
-The Trail of Tears really happened. And the Cherokee Nation really did survive it, and carries the memory of it, and is still here.
+The cats are made up, but the places are real. James White really built his fort. Sequoyah really invented his syllabary. The Smoky Mountains really do breathe blue smoke. The Trail of Tears really happened. Davy Crockett really voted against it and lost his seat for it. Tennessee really is the Volunteer State. The TVA really did light up the valley. Oak Ridge really was secret. The Lost Sea really was found by a thirteen-year-old boy. Dolly Parton really did grow up poor in the mountains and write three thousand songs. The Sunsphere really is gold and really did host the world. East Tennessee really did stay loyal to the Union.
 
 And on the night of April 18, 2026, William Shatner really did stand on the stage of the Tennessee Theatre and tell stories to a roomful of strangers — including a brown-haired ten-year-old and his eight-year-old sister, somewhere in the rows.
 

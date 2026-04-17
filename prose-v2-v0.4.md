@@ -1564,7 +1564,7 @@ He nodded.
 
 He nodded.
 
-"Then the lostness was a kind of party too. It was a small private party that you threw for yourself, and StarClan came, and so did Celerypaw, and so did Singer, and so did Lampblack, and so did MountainClan, and so did Smokey and Onyx of the Hill of Many Lights, and so did I, sitting here on the bluff for two days. Eleven million cats and Twolegs came to your party, kit. You did not see them. They were there. They are always there. The world is full of them. And now you have come home."
+"Then the lostness was a kind of party too. It was a small private party that you threw for yourself, and StarClan came, and so did Celerypaw, and so did Singer, and so did Quietpaw's great-grandson's grandson, and so did MountainClan, and so did Smokey and Onyx of the Hill of Many Lights, and so did I, sitting here on the bluff for two days. Eleven million cats and Twolegs came to your party, kit. You did not see them. They were there. They are always there. The world is full of them. And now you have come home."
 
 Acornpaw could not speak.
 
@@ -1727,8 +1727,6 @@ He turned to Celerypaw.
 "Celerypaw. From this moment, you will be known as **Celeryflight**. Because your wisdom flies ahead of you. Because you have the gift of seeing where things are going to land before they get there. Because you must learn, all your life, to let your brother land where he must, and to be there to greet him when he does."
 
 Celeryflight bowed her head. Her new name felt like an old coat that had always fit her.
-
-For a long moment no cat moved. Somewhere down the street, a Twoleg laughed through the theatre door and was gone.
 
 And then, very softly, almost to herself, Celeryflight began to hum. It was not a song any cat in MarbleClan had heard before. It was a song about going home — about an old paw road and the smell of mountain laurel and a porch where someone you love is waiting up. Singer of the mountain had given it to her on a back porch far away in the mountain-country, and Celeryflight had carried it home folded inside her, waiting for the moment that needed it. This moment needed it.
 
