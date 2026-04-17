@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#1a1611">
+<title>MarbleClan — Tales of the Knoxville Hollow</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐈</text></svg>">
+<style>
+  :root {
+    --parchment: #f5ecd9;
+    --parchment-warm: #ede0c4;
+    --parchment-deep: #e3d3b1;
+    --ink: #1f1a14;
+    --ink-soft: #3a3024;
+    --ink-faded: #6b5f4c;
+    --gold: #b88a2c;
+    --gold-deep: #8c6118;
+    --forest: #2d4a2b;
+    --moss: #4a6b3e;
+    --rust: #9c3a1f;
+    --shadow: rgba(31, 26, 20, 0.18);
+    --shadow-deep: rgba(31, 26, 20, 0.35);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+
+  body {
+    font-family: 'Lora', Georgia, serif;
+    background: var(--parchment);
+    color: var(--ink);
+    line-height: 1.7;
+    font-size: 19px;
+    background-image:
+      radial-gradient(ellipse at top left, rgba(184, 138, 44, 0.06), transparent 60%),
+      radial-gradient(ellipse at bottom right, rgba(45, 74, 43, 0.05), transparent 60%);
+    background-attachment: fixed;
+  }
+
+  /* ====== COVER ====== */
+  .cover {
+    min-height: 100vh;
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, #2d2418 0%, #1a1611 100%);
+    color: #f5ecd9;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .cover-image {
+    width: 100%;
+    max-width: 720px;
+    height: auto;
+    max-height: 100vh;
+    max-height: 100dvh;
+    object-fit: contain;
+    display: block;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.8);
+  }
+
+  .cover-byline {
+    position: absolute;
+    bottom: 60px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 1.15rem;
+    color: var(--gold);
+    text-shadow: 0 2px 12px rgba(0,0,0,0.9), 0 0 20px rgba(0,0,0,0.7);
+    background: rgba(31, 26, 20, 0.55);
+    padding: 8px 22px;
+    border-radius: 999px;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    white-space: nowrap;
+  }
+
+  .cover-scroll {
+    position: absolute;
+    bottom: 22px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: rgba(245, 236, 217, 0.85);
+    font-size: 11px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    animation: bounce 2.5s ease-in-out infinite;
+    font-family: 'Cinzel', serif;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.9);
+  }
+
+  @keyframes bounce {
+    0%, 100% { transform: translateX(-50%) translateY(0); opacity: 0.85; }
+    50% { transform: translateX(-50%) translateY(6px); opacity: 1; }
+  }
+
+  @media (max-width: 720px) {
+    .cover-byline { bottom: 48px; font-size: 0.95rem; padding: 6px 16px; }
+    .cover-scroll { bottom: 16px; font-size: 10px; }
+  }
+
+  /* ====== PAGE LAYOUT ====== */
+  .page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 60px 28px;
+  }
+
+  .section {
+    padding: 50px 0;
+    border-bottom: 1px solid rgba(108, 95, 76, 0.15);
+  }
+
+  .section:last-child { border-bottom: none; }
+
+  /* ====== HEADINGS ====== */
+  .chapter-eyebrow {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.35em;
+    color: var(--gold-deep);
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 16px;
+    font-weight: 600;
+  }
+
+  .chapter-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2rem, 6vw, 2.8rem);
+    font-weight: 600;
+    color: var(--ink);
+    text-align: center;
+    line-height: 1.15;
+    margin-bottom: 40px;
+    letter-spacing: -0.01em;
+  }
+
+  .section-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--ink);
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 32px;
+    position: relative;
+  }
+
+  .section-title::before,
+  .section-title::after {
+    content: '';
+    display: inline-block;
+    width: 30px;
+    height: 1px;
+    background: var(--gold);
+    vertical-align: middle;
+    margin: 0 16px;
+  }
+
+  /* ====== ORNAMENTS ====== */
+  .ornament {
+    text-align: center;
+    margin: 36px 0;
+    color: var(--gold);
+    font-size: 1.2rem;
+    letter-spacing: 0.5em;
+  }
+
+  .ornament::before {
+    content: '✦  ✦  ✦';
+  }
+
+  .pawprint-divider {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 0.9rem;
+    color: var(--gold);
+    letter-spacing: 0.6em;
+  }
+
+  /* ====== ALLEGIANCES ====== */
+  .allegiances {
+    background: var(--parchment-warm);
+    padding: 36px 28px;
+    border-radius: 4px;
+    border: 1px solid var(--parchment-deep);
+    box-shadow: 0 2px 12px var(--shadow);
+    margin-top: 24px;
+  }
+
+  .allegiance-intro {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--ink-soft);
+    margin-bottom: 24px;
+    text-align: center;
+    line-height: 1.6;
+  }
+
+  .allegiance-entry {
+    margin-bottom: 18px;
+    padding-left: 0;
+  }
+
+  .allegiance-entry:last-child { margin-bottom: 0; }
+
+  .allegiance-role {
+    font-family: 'Cinzel', serif;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    color: var(--forest);
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+
+  .allegiance-desc {
+    font-size: 1rem;
+    color: var(--ink);
+    line-height: 1.55;
+  }
+
+  .allegiance-name {
+    font-weight: 600;
+    color: var(--rust);
+  }
+
+  /* ====== GLOSSARY ====== */
+  .glossary {
+    background: var(--parchment-warm);
+    padding: 32px 28px;
+    border-radius: 4px;
+    border: 1px solid var(--parchment-deep);
+    box-shadow: 0 2px 12px var(--shadow);
+  }
+
+  .glossary-list {
+    list-style: none;
+    columns: 1;
+    column-gap: 24px;
+  }
+
+  .glossary-list li {
+    margin-bottom: 10px;
+    padding: 8px 0;
+    line-height: 1.5;
+    break-inside: avoid;
+    font-size: 1rem;
+  }
+
+  .glossary-term {
+    font-weight: 700;
+    color: var(--forest);
+    font-style: italic;
+  }
+
+  /* ====== BODY PROSE ====== */
+  .prose p {
+    margin-bottom: 1.1em;
+    text-align: left;
+  }
+
+  .prose p.lead::first-letter {
+    font-family: 'Cormorant Garamond', serif;
+    float: left;
+    font-size: 4.2rem;
+    line-height: 0.85;
+    padding: 8px 12px 0 0;
+    color: var(--rust);
+    font-weight: 700;
+  }
+
+  .prose em { color: var(--ink); font-style: italic; }
+  .prose strong { color: var(--forest); }
+
+  /* dialogue */
+  .dialogue { padding-left: 0; }
+
+  /* ====== ILLUSTRATION ====== */
+  .illustration {
+    margin: 40px -28px;
+    position: relative;
+    box-shadow: 0 8px 28px var(--shadow-deep);
+  }
+
+  .illustration img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .illustration-caption {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--ink-faded);
+    text-align: center;
+    padding: 12px 24px;
+    background: var(--parchment-warm);
+    border-top: 1px solid var(--parchment-deep);
+  }
+
+  /* ====== TWOLEG-WORLD CALLOUT ====== */
+  .twoleg-world {
+    background: linear-gradient(180deg, #f0e3c5 0%, #e8d9b8 100%);
+    border-left: 4px solid var(--gold);
+    padding: 24px 24px 24px 28px;
+    margin: 36px 0;
+    border-radius: 0 6px 6px 0;
+    position: relative;
+    box-shadow: 0 2px 8px var(--shadow);
+  }
+
+  .twoleg-world::before {
+    content: 'FROM THE TWOLEG WORLD';
+    display: block;
+    font-family: 'Cinzel', serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.3em;
+    color: var(--gold-deep);
+    font-weight: 700;
+    margin-bottom: 12px;
+  }
+
+  .twoleg-world p {
+    font-size: 0.97rem;
+    line-height: 1.6;
+    color: var(--ink-soft);
+    margin: 0;
+  }
+
+  /* ====== TABLE OF CONTENTS / NAV ====== */
+  .toc {
+    background: var(--parchment-warm);
+    padding: 28px 24px;
+    border-radius: 4px;
+    border: 1px solid var(--parchment-deep);
+    box-shadow: 0 2px 12px var(--shadow);
+    margin-top: 24px;
+  }
+
+  .toc ol {
+    list-style: none;
+    counter-reset: chap;
+  }
+
+  .toc li {
+    counter-increment: chap;
+    padding: 10px 0;
+    border-bottom: 1px dashed var(--parchment-deep);
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.15rem;
+  }
+
+  .toc li:last-child { border-bottom: none; }
+
+  .toc li::before {
+    content: counter(chap, upper-roman);
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    color: var(--gold-deep);
+    font-weight: 600;
+    min-width: 40px;
+  }
+
+  .toc a {
+    color: var(--ink);
+    text-decoration: none;
+    font-weight: 500;
+    flex: 1;
+  }
+
+  .toc a:hover, .toc a:focus { color: var(--rust); text-decoration: underline; }
+
+  .toc-prologue::before, .toc-epilogue::before, .toc-final::before {
+    content: '✦' !important;
+    color: var(--gold) !important;
+  }
+
+  /* ====== FINAL NOTE ====== */
+  .final-note {
+    background: linear-gradient(180deg, #ede0c4 0%, #e3d3b1 100%);
+    padding: 40px 28px;
+    border-radius: 4px;
+    border: 2px solid var(--gold);
+    margin: 40px 0;
+    text-align: left;
+    box-shadow: 0 4px 20px var(--shadow);
+  }
+
+  .final-note p { font-size: 1.05rem; line-height: 1.7; margin-bottom: 1em; }
+  .final-note p:last-child { margin-bottom: 0; }
+
+  .final-note .signature {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 1.4rem;
+    color: var(--rust);
+    text-align: right;
+    margin-top: 24px;
+  }
+
+  .final-note .ps {
+    margin-top: 24px;
+    padding-top: 20px;
+    border-top: 1px dashed var(--gold);
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--ink-faded);
+  }
+
+  /* ====== END MARK ====== */
+  .end-mark {
+    text-align: center;
+    margin: 50px 0 30px;
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    letter-spacing: 0.4em;
+    color: var(--gold-deep);
+  }
+
+  .end-mark::before, .end-mark::after {
+    content: '⸻ ';
+    color: var(--gold);
+  }
+
+  .end-mark::after { content: ' ⸻'; }
+
+  /* ====== FOOTER ====== */
+  footer {
+    text-align: center;
+    padding: 40px 24px 60px;
+    color: var(--ink-faded);
+    font-size: 0.85rem;
+    font-style: italic;
+    background: var(--parchment-deep);
+  }
+
+  /* ====== RESPONSIVE ====== */
+  @media (min-width: 700px) {
+    body { font-size: 20px; }
+    .illustration { margin: 48px 0; border-radius: 4px; overflow: hidden; }
+    .glossary-list { columns: 2; }
+  }
+
+  @media (min-width: 900px) {
+    body { font-size: 21px; line-height: 1.75; }
+    .page { padding: 80px 40px; }
+  }
+
+  /* iPad optimization */
+  @media (min-width: 768px) and (max-width: 1366px) {
+    body { font-size: 21px; }
+    .chapter-title { font-size: 3.2rem; }
+  }
+
+  /* Selection color */
+  ::selection {
+    background: var(--gold);
+    color: var(--parchment);
+  }
+
+  /* Print fallback */
+  @media print {
+    .cover { min-height: auto; page-break-after: always; }
+    .section { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<!-- COVER -->
+<section class="cover" id="cover">
+  <img class="cover-image" src="images/00-cover.jpeg" alt="MarbleClan: Tales of the Knoxville Hollow — cover art showing two cats at sunset over the Knoxville skyline">
+  <div class="cover-byline">For Eli &amp; Rosie — April 2026</div>
+  <div class="cover-scroll">scroll to begin</div>
+</section>
+
+<main class="page">
+
+  <!-- ALLEGIANCES -->
+  <section class="section" id="allegiances">
+    <h2 class="section-title">Allegiances</h2>
+    <div class="allegiances">
+      <p class="allegiance-intro">MarbleClan — A small clan of cats who have lived in the Twoleg place called Knoxville for as long as any cat can remember. They take their name from the cool pink stone that runs through the hills like ribbons of frozen sunset.</p>
+
+      <div class="allegiance-entry">
+        <div class="allegiance-role">Leader</div>
+        <div class="allegiance-desc"><span class="allegiance-name">Stonestar</span> — a broad-shouldered grey tom with a scar across his muzzle.</div>
+      </div>
+
+      <div class="allegiance-entry">
+        <div class="allegiance-role">Deputy</div>
+        <div class="allegiance-desc"><span class="allegiance-name">Riverflight</span> — a sleek brown she-cat who knows every bend of the great river.</div>
+      </div>
+
+      <div class="allegiance-entry">
+        <div class="allegiance-role">Medicine Cat</div>
+        <div class="allegiance-desc"><span class="allegiance-name">Mothpelt</span> — a cream-colored she-cat with ginger patches; she reads the sky better than any cat alive.</div>
+      </div>
+
+      <div class="allegiance-entry">
+        <div class="allegiance-role">Elder</div>
+        <div class="allegiance-desc"><span class="allegiance-name">Smokefur</span> — a silver tabby with cloudy green eyes. Older than the oldest oak. She remembers everything, and what she does not remember, she invents so well that nobody minds.</div>
+      </div>
+
+      <div class="allegiance-entry">
+        <div class="allegiance-role">Apprentice</div>
+        <div class="allegiance-desc"><span class="allegiance-name">Acornpaw</span> — a small ginger tom with one white sock and an enormous curiosity. His tail never stops twitching when he is thinking, and he is almost always thinking.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- GLOSSARY -->
+  <section class="section" id="glossary">
+    <h2 class="section-title">A Glossary for Twolegs</h2>
+    <div class="glossary">
+      <ul class="glossary-list">
+        <li><span class="glossary-term">moon</span> = a month</li>
+        <li><span class="glossary-term">sunhigh</span> = noon</li>
+        <li><span class="glossary-term">moonhigh</span> = midnight</li>
+        <li><span class="glossary-term">greenleaf</span> = summer</li>
+        <li><span class="glossary-term">leaf-fall</span> = autumn</li>
+        <li><span class="glossary-term">leaf-bare</span> = winter</li>
+        <li><span class="glossary-term">newleaf</span> = spring</li>
+        <li><span class="glossary-term">Twoleg</span> = a human</li>
+        <li><span class="glossary-term">Twoleg place</span> = a town or city</li>
+        <li><span class="glossary-term">monster</span> = a car</li>
+        <li><span class="glossary-term">kittypet</span> = a house cat</li>
+        <li><span class="glossary-term">thunderpath</span> = a road</li>
+        <li><span class="glossary-term">StarClan</span> = the ancestors who watch from the stars</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- TABLE OF CONTENTS -->
+  <section class="section" id="toc">
+    <h2 class="section-title">The Tales</h2>
+    <div class="toc">
+      <ol>
+        <li class="toc-prologue"><a href="#prologue">Prologue: The Hollow</a></li>
+        <li><a href="#ch1">The Cat Who Built the Walls</a></li>
+        <li><a href="#ch2">The Cat Who Made Words</a></li>
+        <li><a href="#ch3">The Mountain That Breathes</a></li>
+        <li><a href="#ch4">The Secret City</a></li>
+        <li><a href="#ch5">The Sea Beneath</a></li>
+        <li><a href="#ch6">The Year the Whole World Came</a></li>
+        <li class="toc-epilogue"><a href="#epilogue">Epilogue: The Voice in the Theatre</a></li>
+        <li class="toc-final"><a href="#final">A Final Note</a></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- PROLOGUE -->
+  <section class="section prose" id="prologue">
+    <div class="chapter-eyebrow">Prologue</div>
+    <h2 class="chapter-title">The Hollow</h2>
+
+    <figure class="illustration">
+      <img src="images/01-prologue-porch.jpeg" alt="Acornpaw and Smokefur sitting under a wooden porch at dawn" loading="lazy">
+      <figcaption class="illustration-caption">Acornpaw and Smokefur, beneath the porch.</figcaption>
+    </figure>
+
+    <p class="lead">Acornpaw woke before sunhigh, which was odd, because he had stayed up past moonhigh listening to the older cats tell ghost stories. He rolled onto his back, stretched until every claw popped, and blinked up at the wooden underbelly of the porch they slept beneath. Above him, the Twolegs were already moving. He could hear the soft slap of paws — not paws, <em>feet</em> — on the floor.</p>
+
+    <p>This was Knoxville. His home.</p>
+
+    <p>Knoxville sat in a cradle of green hills, where two rivers met and became one. To the south rose the Smoky Mountains, blue and quiet, breathing fog like a great sleeping animal. To the west, the river curled like a serpent through bottomlands of marble and clay. To the north, freight trains hooted at all hours, calling and answering each other across the dark.</p>
+
+    <p>Acornpaw loved it. He loved the smell of brewery hops drifting from the Old City. He loved the way the streetlamps came on one by one at dusk, like StarClan stepping into the sky. He loved the giant gold ball that stood downtown for no reason any cat could explain.</p>
+
+    <p>But he did not yet <em>know</em> it. Not really. To know a place, an apprentice must learn its stories — the cats who lived before, the battles they fought, the secrets they carried. And there was only one cat in MarbleClan who knew them all.</p>
+
+    <p>Smokefur was already awake when Acornpaw padded across the moss to the elders' den. She sat with her tail curled neatly around her paws, watching the river through half-closed eyes.</p>
+
+    <p>"You are early, kit."</p>
+    <p>"I am not a kit," said Acornpaw, sitting down hard. "I am an apprentice."</p>
+    <p>"You are an apprentice who is still small enough to fit under my chin," said Smokefur, "which makes you a kit when I want it to. Sit closer. The wind is changing."</p>
+
+    <p>Acornpaw scooted closer. The wind smelled of coming rain and frying bacon and something sweet and yeasty that the Twolegs called <em>donut</em>.</p>
+
+    <p>"Tell me a story," he said.</p>
+    <p>Smokefur's whiskers twitched. "Which one?"</p>
+    <p>"All of them."</p>
+
+    <p>She laughed — a dry, rattling laugh that turned into a cough. "All of them is too many. Even for me. Pick a place, kit. Any place in our hollow. I will tell you the story that lives in it."</p>
+
+    <p>Acornpaw thought hard. His tail twitched. He looked out across the rooftops, across the river, all the way to the mountains.</p>
+
+    <p>"Start at the beginning," he said.</p>
+
+    <p>Smokefur smiled with her eyes. "Then I will start with a tom named White."</p>
+
+    <div class="pawprint-divider">🐾  🐾  🐾</div>
+  </section>
+
+  <!-- CHAPTER 1 -->
+  <section class="section prose" id="ch1">
+    <div class="chapter-eyebrow">Chapter One</div>
+    <h2 class="chapter-title">The Cat Who Built the Walls</h2>
+
+    <figure class="illustration">
+      <img src="images/02-whitewhisker-fort.jpeg" alt="Whitewhisker the cat standing on the rooftop of James White's frontier fort at sunset" loading="lazy">
+      <figcaption class="illustration-caption">Whitewhisker, atop the fort he helped to build.</figcaption>
+    </figure>
+
+    <p class="lead">Long before there was a Knoxville, said Smokefur, there was only forest.</p>
+
+    <p>The forest belonged to the Cherokee. The Cherokee called the river <em>Tanasi</em>, and from that name, the whole land took its name. The cats of that time were lean, careful hunters who lived under porches and in barns and along the riverbanks. They called themselves no clan at all. They simply <em>were</em>.</p>
+
+    <p>Then the new Twolegs came up the river in long flat boats. The cats watched from the bushes as the strangers swung axes at the trees. One of them — a tall, quiet Twoleg with a steady walk — came in the year the cats remember as the <em>Five-Crow Greenleaf</em>, when five crows roosted on the same branch all summer and did not fly. His name was James White. He built four log houses and a wall around them and called it a fort.</p>
+
+    <p>"There was a tom in those days," said Smokefur, "who took a liking to White's fort. They called him Whitewhisker, on account of the streak of pale fur down his cheek. Whitewhisker was no warrior — he was a <em>thinker</em>. He liked the smell of woodsmoke and ink and saddle leather. He liked watching Twolegs argue. He decided that whatever they were building, he would help to build it too."</p>
+
+    <p>So Whitewhisker became the fort's mouser. He killed rats in the granary. He kept the snakes out of the springhouse. And in return, the Twolegs left him scraps of bacon by the door and never once threw a boot at him.</p>
+
+    <p>After a while, more Twolegs came. The fort grew into a village. The village got a name — <em>Knoxville</em>, after a Twoleg far away in the eastern places who was the war-chief of the new country. The cats thought it was a strange name for a place none of them would ever visit, but Twolegs are strange, and you cannot fix that.</p>
+
+    <p>Whitewhisker watched the village grow. He watched the dirt path along the river become a wide street of pounded clay. He watched the Twolegs argue about laws under a great oak. He watched the very first Tennessee governor — a tom named Blount, in Twoleg form — set up his house on the bluff. The cats called that bluff <em>Council Hill</em>, because every important argument seemed to happen there.</p>
+
+    <p>"Whitewhisker lived a long, happy life," said Smokefur, "and when his time came, he climbed up onto the roof of James White's old fort and watched the sun set over the new town. They say he turned to silver and walked into StarClan from there. They say if you sit on a Knoxville rooftop at sunset and listen, you can hear his purr."</p>
+
+    <p>Acornpaw's eyes were huge. "Can I try?"</p>
+
+    <p>"You may. But only after dinner. Twolegs do not like cats on their rooftops before dinner. It is the rule."</p>
+
+    <div class="twoleg-world">
+      <p>James White really did build a fort here in 1786, and the city was named for Henry Knox, George Washington's Secretary of War. Knoxville was the first capital of Tennessee, before Nashville took the job. You can still visit a reconstructed James White's Fort downtown — it is only a few blocks from the Old City.</p>
+    </div>
+
+    <div class="pawprint-divider">🐾  🐾  🐾</div>
+  </section>
+
+  <!-- CHAPTER 2 -->
+  <section class="section prose" id="ch2">
+    <div class="chapter-eyebrow">Chapter Two</div>
+    <h2 class="chapter-title">The Cat Who Made Words</h2>
+
+    <figure class="illustration">
+      <img src="images/03-markpelt-syllabary.jpeg" alt="Markpelt the silver tabby cat drawing Cherokee syllabary characters on birch bark" loading="lazy">
+      <figcaption class="illustration-caption">Markpelt, drawing the squiggles that became a language.</figcaption>
+    </figure>
+
+    <p class="lead">The next morning, Smokefur and Acornpaw sat by the river. The river was wide here, wider than any cat could leap. Twolegs in long boats slid past, paddling. A great blue heron stood on a flat rock and pretended to be a stick.</p>
+
+    <p>"Look across the water," said Smokefur. "What do you see?"</p>
+    <p>"Trees," said Acornpaw.</p>
+    <p>"Yes. And beyond the trees?"</p>
+    <p>"More trees."</p>
+    <p>"Yes. And beyond the trees?"</p>
+    <p>"…More trees?"</p>
+
+    <p>Smokefur laughed her dry laugh. "Beyond the trees is a place called Tuskegee. It is gone now — buried under the lake the Twolegs made. But before the lake, before the white Twolegs, the Cherokee lived there in towns of round houses and council yards and corn fields that stretched to the horizon. And in one of those towns, long ago, was born a tom named Markpelt."</p>
+
+    <p>"Markpelt?"</p>
+
+    <p>"A silver tabby. Quiet, like me. Markpelt was a silversmith — he made shining things out of melted Twoleg coins. But he had a problem. He could not read. Not because he was a cat, although that did not help, but because the Cherokee had no written words. They told their stories with their voices and their hands. The white Twolegs had little black squiggles on paper that seemed to <em>trap</em> their voices, so the voices could be carried in a bag and let out again far away. Markpelt thought this was the best magic he had ever heard of."</p>
+
+    <p>"He wanted it for his people."</p>
+
+    <p>"He did. And so for twelve moons — twelve <em>years</em>, in Twoleg time — he sat on his porch and tried to invent his own squiggles. The other cats laughed at him. Some called him crazy. His own friends turned away. But Markpelt kept drawing. He drew pictures for whole words, and gave up. He drew pictures for parts of words, and gave up. Finally, he drew pictures for <em>sounds</em> — every sound a Cherokee mouth could make. There were eighty-five of them."</p>
+
+    <p>"That is a lot of sounds."</p>
+
+    <p>"It is the right number. Markpelt taught the squiggles to his daughter first. She was small enough to learn fast. Then she taught them to the elders. Then the elders taught the warriors. Within three greenleafs, more Cherokee could read and write their own language than white Twolegs could read and write theirs."</p>
+
+    <p>Acornpaw's tail thumped the moss. "What was Markpelt's true name?"</p>
+
+    <p>"In the Twoleg histories, he is called Sequoyah. They named the biggest trees in the world after him. They named towns after him. There is even a museum in his honor, not far from where you and your Twolegs are going this weekend. If you pass it, dip your head. Markpelt earned it."</p>
+
+    <div class="twoleg-world">
+      <p>Sequoyah is the only person in recorded human history to invent a writing system entirely on his own, without already being able to read. He finished his Cherokee syllabary around 1821. Within just a few years, the Cherokee Nation became one of the most literate peoples in the world. The Sequoyah Birthplace Museum sits on the Little Tennessee River, about an hour south of Knoxville.</p>
+    </div>
+
+    <div class="pawprint-divider">🐾  🐾  🐾</div>
+  </section>
+
+  <!-- CHAPTER 3 -->
+  <section class="section prose" id="ch3">
+    <div class="chapter-eyebrow">Chapter Three</div>
+    <h2 class="chapter-title">The Mountain That Breathes</h2>
+
+    <figure class="illustration">
+      <img src="images/04-mountainclan-fireflies.jpeg" alt="MountainClan cats overlooking a Smoky Mountain valley filled with synchronous fireflies" loading="lazy">
+      <figcaption class="illustration-caption">MountainClan, on the night the fireflies sing together.</figcaption>
+    </figure>
+
+    <p class="lead">By the third day, leaf-bare's last cold had finally cracked, and the air smelled like newleaf. Smokefur climbed slowly to the top of a low stone wall and stared south.</p>
+
+    <p>"Look there, kit. The mountains."</p>
+
+    <p>Acornpaw looked. The Smoky Mountains rose in long blue waves, rank after rank, each paler than the last. Mist clung to their slopes — not fog, exactly, but something <em>more</em>. Something that breathed.</p>
+
+    <p>"Why do they smoke?" he asked.</p>
+
+    <p>"They do not, really. The trees breathe out a kind of mist. From far away it looks like smoke. The Cherokee called the mountains <em>Shaconage</em> — 'place of blue smoke.' I think that is the best name any place has ever had."</p>
+
+    <p>"Do cats live there?"</p>
+
+    <p>"All kinds. There is a clan there called MountainClan, though they do not call themselves that. They are bigger than us. Their fur is thick. Their pads are tough. They hunt black squirrels and crawdads in the streams."</p>
+
+    <p>"Do they fight us?"</p>
+
+    <p>"No. They have no need. They have the whole forest. Once, long ago, the Twolegs almost cut the forest down — every last tree of it, for the wood. But other Twolegs said <em>no</em>, and they made the mountains a <em>park</em>. A park is a place that no Twoleg may chop, no matter how badly they want to. It is a kind of promise, written down."</p>
+
+    <p>Acornpaw considered this. "Twolegs make a lot of promises."</p>
+
+    <p>"They do. They keep some of them. The Smokies are one of the kept ones."</p>
+
+    <p>She paused, and her cloudy eyes seemed to focus on something far away.</p>
+
+    <p>"There is a story they tell, in MountainClan, about the night the fireflies sing together. Once every greenleaf, for one or two nights only, every firefly in a certain valley flashes at the same instant. Off, on, off, on, a thousand thousand of them, like the mountain itself is breathing light. No cat knows why. No Twoleg, either. It is one of the great mysteries of the world."</p>
+
+    <p>"Have you seen it?"</p>
+
+    <p>"Once. A long time ago. It is the most beautiful thing I have ever seen, kit. If your Twolegs ever take you in greenleaf — beg them. Hiss. Yowl. Climb the curtains. Make them go."</p>
+
+    <p>Acornpaw promised he would.</p>
+
+    <div class="twoleg-world">
+      <p>Great Smoky Mountains National Park is the most-visited national park in America. It is home to over 19,000 species of plants and animals, including bears, elk, salamanders, and the famous synchronous fireflies, which all flash in unison for a few nights every June. The park became official in 1934 — saved from logging by ordinary people who pooled their nickels to buy the land.</p>
+    </div>
+
+    <div class="pawprint-divider">🐾  🐾  🐾</div>
+  </section>
+
+  <!-- CHAPTER 4 -->
+  <section class="section prose" id="ch4">
+    <div class="chapter-eyebrow">Chapter Four</div>
+    <h2 class="chapter-title">The Secret City</h2>
+
+    <figure class="illustration">
+      <img src="images/05-quietpaw-k25.jpeg" alt="Quietpaw the black cat patrolling the catwalks of the K-25 building at Oak Ridge during the Manhattan Project" loading="lazy">
+      <figcaption class="illustration-caption">Quietpaw, on patrol in the K-25.</figcaption>
+    </figure>
+
+    <p class="lead">The fourth story Smokefur told was the strangest, and Acornpaw almost did not believe it.</p>
+
+    <p>"There is a place," she said, "thirty Twoleg-monsters away, where a whole city was built in secret. No one was supposed to know it was there. Not even the cats. <em>Especially</em> not the cats."</p>
+
+    <p>"Why?"</p>
+
+    <p>"Because the Twolegs were trying to make a star."</p>
+
+    <p>Acornpaw stared. "A <em>star</em>?"</p>
+
+    <p>"Not a real one. A small one. A short one. They wanted to take a thing called an <em>atom</em>, which is so small you cannot see it even if you hold it up to the sun, and they wanted to <em>split</em> it. When you split an atom, it lets out the kind of light that lives in the heart of the sun. They thought if they could learn to do that, they could end a great war that had eaten the world for many moons."</p>
+
+    <p>"Did they?"</p>
+
+    <p>Smokefur was quiet for a long time.</p>
+
+    <p>"They did. The war ended. But the way it ended — that is a story for cats older than you. I will tell you the smaller story, the one that belongs in our hollow. There was a tom in the Secret City. A black tom, very small, with quiet paws. He was the apprentice to the kittypets who lived there. Twolegs came to that city by the thousands and thousands, and most of them did not even know what they were <em>building</em>. They turned valves. They watched dials. They went home at night and ate their dinner and never spoke of their work, because the rules said they could not."</p>
+
+    <p>"How did Quietpaw stand it?"</p>
+
+    <p>"He had a job. He patrolled a great long building called the K-twenty-five. It was the biggest building any Twoleg had ever made — so long it had a curve in it, to follow the curve of the world. Inside, machines spun all day and all night. Quietpaw kept the mice out of the machines. That was his whole life's work, and it mattered, because if the mice got into the wires, the great experiment would fail."</p>
+
+    <p>"Did the mice get in?"</p>
+
+    <p>"Not on Quietpaw's watch."</p>
+
+    <p>Acornpaw thought about this. "So a <em>cat</em> helped to make the star?"</p>
+
+    <p>"A cat helps to do everything, kit. Twolegs forget. We do not."</p>
+
+    <p>She licked a paw and drew it across her ear.</p>
+
+    <p>"The Secret City is not secret anymore. It has a name now — Oak Ridge — and a museum, and signs that tell the whole story. If you go, look for the cat statues. There aren't any. But there should be."</p>
+
+    <div class="twoleg-world">
+      <p>During World War II, the U.S. government built a top-secret town called Oak Ridge, just thirty minutes from Knoxville. At its peak, 75,000 people lived there, almost none of whom knew what they were really working on. They were enriching uranium for the world's first atomic bomb. The K-25 building was the largest building in the world at the time it was built. Today, the American Museum of Science and Energy in Oak Ridge tells the whole astonishing story.</p>
+    </div>
+
+    <div class="pawprint-divider">🐾  🐾  🐾</div>
+  </section>
+
+  <!-- CHAPTER 5 -->
+  <section class="section prose" id="ch5">
+    <div class="chapter-eyebrow">Chapter Five</div>
+    <h2 class="chapter-title">The Sea Beneath</h2>
+
+    <figure class="illustration">
+      <img src="images/06-greatfang-cave.jpeg" alt="Greatfang the prehistoric jaguar walking through an underground cave with a still black lake" loading="lazy">
+      <figcaption class="illustration-caption">Greatfang, in the cave that became the Lost Sea.</figcaption>
+    </figure>
+
+    <p class="lead">That afternoon, Smokefur led Acornpaw down to a place behind the train tracks where a crack opened in the limestone. Cold air poured out of the crack like water.</p>
+
+    <p>"Smell that, kit. That is the breath of an underground sea."</p>
+
+    <p>Acornpaw sniffed. The air smelled of wet stone and old water. Far below, he thought he heard something — a slow, steady <em>plink, plink, plink</em> of drops.</p>
+
+    <p>"There is a real sea," said Smokefur. "Not far from here. South, beyond the river, under a hill. The Twolegs call it the Lost Sea. It is the biggest underground lake in their whole country. Once it was lost — no one knew it was there — and then a Twoleg kit, only a few years older than your housemates Eli and Rosie, crawled into a tiny hole in the ground and <em>found</em> it."</p>
+
+    <p>"A kit found a sea?"</p>
+
+    <p>"He did. His name was Ben Sands. He was thirteen. He squeezed through a passage no full-grown Twoleg could fit through, and he came out into a great black room with water on the floor — water so still it was like glass. He went home and told everyone, and no one believed him. They never do, when a kit finds something."</p>
+
+    <p>"What did he do?"</p>
+
+    <p>"He took them back. He pointed. There it was. The sea no one had known was there."</p>
+
+    <p>Acornpaw shivered, but not from cold. "Are there cats in it?"</p>
+
+    <p>"Not now. But once, a long, long time ago — long before any Cherokee or any Twoleg or even any cat as we know cats — there was a great cat in those caves. A jaguar, the size of a wolf, with teeth as long as your whole tail. We know because she left her <em>footprints</em> in the cave mud. The mud dried. The ages passed. The footprints are still there, soft as the morning she made them."</p>
+
+    <p>"Greatfang," whispered Acornpaw, naming her without thinking.</p>
+
+    <p>"Greatfang. Yes. A good name. The ancestors will like it." Smokefur pressed her nose to the stone. "Listen, kit. Every place has a sea under it. Some you can swim in, some you cannot. The Lost Sea is the biggest one I know. But there are smaller ones — a story under every street, a memory under every paw. The job of a clan is to remember."</p>
+
+    <p>"That is a lot of remembering."</p>
+
+    <p>"It is. That is why we have elders."</p>
+
+    <div class="twoleg-world">
+      <p>The Lost Sea is in Sweetwater, Tennessee, about an hour south of Knoxville on the way home toward Atlanta. A 13-year-old boy named Ben Sands crawled in and discovered the giant underground lake in 1905. Inside the cave, scientists later found the perfectly preserved tracks of an extinct Pleistocene jaguar — animals that vanished from North America over 10,000 years ago. You can take a guided walk and a glass-bottom boat ride across the lake.</p>
+    </div>
+
+    <div class="pawprint-divider">🐾  🐾  🐾</div>
+  </section>
+
+  <!-- CHAPTER 6 -->
+  <section class="section prose" id="ch6">
+    <div class="chapter-eyebrow">Chapter Six</div>
+    <h2 class="chapter-title">The Year the Whole World Came</h2>
+
+    <figure class="illustration">
+      <img src="images/07-sunsphere-worlds-fair.jpeg" alt="Cats on a Knoxville rooftop watching the Sunsphere glow during the 1982 World's Fair" loading="lazy">
+      <figcaption class="illustration-caption">The cats of MarbleClan, watching the Sphere glow.</figcaption>
+    </figure>
+
+    <p class="lead">On the last day, the wind shifted and brought a strange new scent — fried funnel cake from somewhere far away, even though it was the wrong season for funnel cake. Smokefur lifted her head.</p>
+
+    <p>"Ah," she said. "I thought we might smell that today. The Sphere is in a friendly mood."</p>
+
+    <p>"The big gold ball?"</p>
+
+    <p>"That is the one. Come, kit. I will tell you the story of the year the whole world came to Knoxville."</p>
+
+    <p>They walked together to a hilltop where the gold ball stood, taller than any tree, glittering like a small captured sun.</p>
+
+    <p>"It was leaf-bare's end, in the year the elders call the <em>Two-Eight-Two</em>. The Twolegs decided to throw a great party — not just for our hollow, but for the whole <em>world</em>. Every nation they knew was invited. Twenty-two of them came. They built strange tall buildings and rivers that ran the wrong way and a tower with a gold ball on top that you could ride up inside in a glass cage. The party lasted a whole greenleaf. Eleven million Twolegs came to see it. The line for the cage stretched around three blocks."</p>
+
+    <p>"Eleven million?" Acornpaw's eyes were enormous.</p>
+
+    <p>"That is the number they tell. Cats are not good with numbers that big. It was <em>a lot.</em> The cats of MarbleClan stayed up on the rooftops the whole time, watching."</p>
+
+    <p>"What did they see?"</p>
+
+    <p>"Music every night. Fireworks like StarClan was throwing a tantrum. A glass tower full of Twolegs from a country called Hungary doing a dance that made no sense. A drink called <em>Cherry Coke</em> was poured for the very first time at a stand near the Sphere. A whole exhibit of <em>robots</em> — metal kittypets that moved on their own. And the gold ball, the gold ball, the gold ball, all greenleaf long, glowing over everything."</p>
+
+    <p>"Does it still glow?"</p>
+
+    <p>"It does. Most of the rest of the party is gone now — the buildings taken down, the strange rivers filled in. But the Sphere stayed. The Twolegs could not bear to take it down. It was too good."</p>
+
+    <p>"Why did they have a party?"</p>
+
+    <p>Smokefur considered this carefully.</p>
+
+    <p>"Twolegs have a great sadness in them sometimes. They forget that the world is good. So every once in a while, they have to throw a party so big that the whole world comes. After it ends, they remember for a while. Then they forget, and they have to do it again. It is a kind of medicine. Cats do not need it. We remember the world is good every morning, when we wake up."</p>
+
+    <div class="twoleg-world">
+      <p>In 1982, Knoxville hosted the World's Fair, with the theme "Energy Turns the World." Eleven million people visited. Cherry Coke was first sold there, the touch-screen computer made one of its public debuts, and the Sunsphere — that 266-foot-tall gold-glass tower in World's Fair Park — became the city's lasting icon. You can still ride up it for free. The view goes for miles.</p>
+    </div>
+
+    <div class="pawprint-divider">🐾  🐾  🐾</div>
+  </section>
+
+  <!-- EPILOGUE -->
+  <section class="section prose" id="epilogue">
+    <div class="chapter-eyebrow">Epilogue</div>
+    <h2 class="chapter-title">The Voice in the Theatre</h2>
+
+    <figure class="illustration">
+      <img src="images/08-theatre-stars.jpeg" alt="Acornpaw and Smokefur sitting on a curb under a starry sky outside the Tennessee Theatre" loading="lazy">
+      <figcaption class="illustration-caption">Outside the Tennessee Theatre, beneath a sky full of stars.</figcaption>
+    </figure>
+
+    <p class="lead">That night, Acornpaw could not sleep. He kept thinking about Whitewhisker on the rooftop, and Markpelt with his eighty-five squiggles, and the silent fireflies of the mountain, and Quietpaw guarding the K-twenty-five, and Greatfang's footprints in the mud, and the gold ball glowing all greenleaf long.</p>
+
+    <p>He padded out from under the porch and into the alley. The street was quiet. The streetlamps were on. From somewhere down toward the river, a great old Twoleg building was lit up gold and red — the Tennessee Theatre, the cats called it, though no one was sure why one building and not another deserved the whole state's name.</p>
+
+    <p>A cat was already sitting on the curb. Smokefur, of course.</p>
+
+    <p>"Listen, kit."</p>
+
+    <p>Acornpaw listened. From inside the theatre came the muffled rumble of voices and music and laughter. Hundreds of Twolegs in there, all turned the same direction, watching a great glowing rectangle. And then a voice — old, weathered, famous all over the world — booming out over them. Acornpaw could not make out the words, but he could feel them. They were the kind of words that make a roomful of strangers all laugh at once.</p>
+
+    <p>"Who is that, Smokefur?"</p>
+
+    <p>"A Twoleg storyteller. A very old one. He tells stories of ships that fly between the stars. Your housemates Eli and Rosie have watched some of them, I think. The Twolegs love him. They have come from all over to listen."</p>
+
+    <p>"Like a World's Fair?"</p>
+
+    <p>"A small one. A theater is a tiny World's Fair, kit, and a story is the gold ball at the top of it."</p>
+
+    <p>They sat together in silence for a while. Above them, the real stars were coming out — first one, then two, then a whole spreading dust of them, the way StarClan always comes when you finally bother to look up.</p>
+
+    <p>"Smokefur," said Acornpaw, "how does a cat get into StarClan?"</p>
+
+    <p>Smokefur thought a long while. The wind stirred her grey fur.</p>
+
+    <p>"By making the world a little bit better than you found it, kit. By telling the stories that the next cat would not have learned without you. By keeping the mice out of the machines. By sitting with a small kit on a curb in a strange Twoleg place and pointing at the stars."</p>
+
+    <p>She licked the top of his head.</p>
+
+    <p>"You are doing fine."</p>
+
+    <p>Behind them, the theatre erupted in laughter and applause. Above them, the stars wheeled slowly over Knoxville.</p>
+
+    <p>Acornpaw closed his eyes.</p>
+
+    <p>He could feel the river running past, and the marble shining quietly under the hills, and the mountains breathing blue smoke in the distance, and the gold ball glowing over downtown, and the deep cold breath of the underground sea, and somewhere, faint and far away, a black tom on patrol in a building so long it had to curve with the world.</p>
+
+    <p>His own hollow. His own clan. His own home.</p>
+
+    <p>He purred himself to sleep right there on the curb, and Smokefur stood guard until moonhigh, when she carried him gently back under the porch.</p>
+
+    <div class="twoleg-world">
+      <p>The Tennessee Theatre opened in 1928 and is one of the most beautiful old movie palaces in the South. On April 18, 2026, the theatre is showing <em>Star Trek II: The Wrath of Khan</em> with a live appearance by the legendary Captain Kirk himself, William Shatner. Eli and Rosie — that's <em>you two</em> — get to be there. Listen for the laughter. That's the sound of a World's Fair the size of one room.</p>
+    </div>
+
+    <div class="pawprint-divider">🐾  🐾  🐾</div>
+  </section>
+
+  <!-- FINAL NOTE -->
+  <section class="section" id="final">
+    <h2 class="section-title">A Final Note</h2>
+
+    <div class="final-note">
+      <p><em>Every story in this book is true, more or less.</em></p>
+
+      <p>The cats are made up, but the places are real. James White really built his fort. Sequoyah really invented his syllabary. The Smoky Mountains really do breathe blue smoke. Oak Ridge really was secret. The Lost Sea really was found by a thirteen-year-old boy. The Sunsphere really is gold and really did host the world. And on the night of April 18, 2026, William Shatner really did stand on the stage of the Tennessee Theatre and tell stories to a roomful of strangers — including a brown-haired ten-year-old and his eight-year-old sister, somewhere in the rows.</p>
+
+      <p>Welcome to Knoxville, Eli and Rosie.</p>
+
+      <p>Look up.</p>
+
+      <div class="signature">— Dad</div>
+
+      <div class="ps">P.S. — There may be a typo or two in this book. The dollar still applies. Bring proof.</div>
+    </div>
+
+    <div class="end-mark">FIN</div>
+  </section>
+
+</main>
+
+<footer>
+  Made with love in Atlanta, April 2026.<br>
+  Cat names are inventions. The history is real. So are the mountains.
+</footer>
+
+<script>
+  // Smooth-scroll polyfill not needed; CSS handles it.
+  // Light keyboard navigation: arrow keys jump between chapters
+  document.addEventListener('keydown', function(e) {
+    if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp') return;
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+    var sections = Array.from(document.querySelectorAll('section[id]'));
+    var current = sections.findIndex(function(s) {
+      var rect = s.getBoundingClientRect();
+      return rect.top > -100 && rect.top < window.innerHeight / 2;
+    });
+
+    if (e.key === 'ArrowDown' && current < sections.length - 1) {
+      e.preventDefault();
+      sections[current + 1].scrollIntoView({behavior: 'smooth', block: 'start'});
+    } else if (e.key === 'ArrowUp' && current > 0) {
+      e.preventDefault();
+      sections[current - 1].scrollIntoView({behavior: 'smooth', block: 'start'});
+    }
+  });
+</script>
+
+</body>
+</html>
