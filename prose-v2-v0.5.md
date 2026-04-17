@@ -149,7 +149,7 @@ The forest belonged to the Cherokee. The Cherokee called the river *Tanasi*, and
 
 The cats of that time were lean, careful hunters who lived under porches and in barns and along the riverbanks. They called themselves no clan at all. They simply *were*. They had no leaders and no rituals and no names that lasted past their own lifetimes. They left no stories, not because they had nothing to say, but because there was nobody yet to listen who knew that stories were the way you said it.
 
-Then the new Twolegs came overland from the east, cutting paths through the forest with heavy axes.
+Then the new Twolegs came up the river in long flat boats.
 
 "What kind of Twolegs?" asked Celerypaw, who liked categories.
 
@@ -171,7 +171,7 @@ So Whitewhisker became the fort's mouser. He killed rats in the granary. He kept
 
 In return for the rats and the snakes, the Twolegs left scraps of bacon by the door. They never threw a boot at him. Once, when he came in soaked from a leaf-bare rain, the smallest she-Twoleg picked him up and dried him with a square of cloth and held him close to the fire until he stopped shivering. She talked to him in soft words while she did it. He never forgot the kindness. Some moons later, when she was very sick with a coughing fever, Whitewhisker slept on her bed for nine nights in a row and purred her back into sleep every time she woke crying. The fever broke. The cats said it was Whitewhisker who broke it. The Twolegs said it was the chicken broth. Both can be true.
 
-After a while, more Twolegs came. The fort grew into a village. The village got a name — *Knoxville*, after a Twoleg named Henry Knox, far away in the eastern places, who was the war-chief of the new country the Twolegs were trying to build. The cats thought it was an odd thing, to name a place after a Twoleg who would never stand on its dirt or smell its rivers. But that is the way of Twolegs, and you cannot fix it.
+After a while, more Twolegs came. The fort grew into a village. The village got a name — *Knoxville*, after a Twoleg named Henry Knox, far away in the eastern places, who was the war-chief of the new country the Twolegs were trying to build. The cats thought it was a strange thing, to name a place after a Twoleg who would never stand on its dirt or smell its rivers. But Twolegs are strange, and you cannot fix that.
 
 Whitewhisker watched the village grow. He watched the dirt path along the river become a wide street of pounded clay. He watched the Twolegs argue about laws and treaties and which streams belonged to which Twolegs. He watched the first governor of the new territory — a tom named Blount, in Twoleg form — set up his house on the bluff just above the river. The cats called that bluff *Council Hill*, because every important argument seemed to happen there.
 
@@ -299,7 +299,7 @@ She lifted one paw.
 
 She moved her paw east.
 
-"East — that long valley you can just barely see through the haze. The country of the silverpaths, where the Twoleg trains run all night. There used to be a proud clan there — TrainClan, the cats of the depots — but they dwindled when the silverpaths grew quiet, and what is left of them lives in ragged bands that come and go."
+"East — that long valley you can just barely see through the haze. The country of the silverpaths, where the Twoleg trains run all night. There used to be a clan there — TrainClan, the cats of the depots — but they have gone now, scattered when the silverpaths grew quiet."
 
 She moved her paw north.
 
@@ -325,7 +325,7 @@ He shook the door closed.
 
 "Tell us another story," he said.
 
-> **From the Twoleg world:** Knoxville sits where the French Broad and Holston Rivers join to form the Tennessee River. The exact spot — at the eastern edge of the city — is one of the most important confluences in the eastern United States. Both feeder rivers come down from the Appalachian Mountains, and the Tennessee they make is a thousand-mile-long river that flows all the way to the Ohio and eventually to the Gulf of Mexico. The bluff above the confluence — what locals now call the Forks of the River — gives a wide view across the water to the hills beyond. The Cherokee word *Tanasi* (sometimes spelled Tanase) was the name of one of their towns near here, and the whole state of Tennessee inherited the name.
+> **From the Twoleg world:** Knoxville sits where the French Broad and Holston Rivers join to form the Tennessee River. The exact spot — at the eastern edge of the city — is one of the most important confluences in the eastern United States. Both feeder rivers come down from the Appalachian Mountains, and the Tennessee they make is a thousand-mile-long river that flows all the way to the Ohio and eventually to the Gulf of Mexico. The ridge above the meeting is called Sharp's Ridge today. From there, on a clear day, you really can see all the way to the Smokies. The Cherokee word *Tanasi* (sometimes spelled Tanase) was the name of one of their towns near here, and the whole state of Tennessee inherited the name.
 
 ---
 
@@ -545,15 +545,13 @@ Three days later, when leaf-bare's last cold had finally cracked and the air sme
 
 His name was Burrpaw, and he was from a ragged clan that kept to the rail yards east of the river. He had come across with his mentor to trade herbs with Mothpelt — and while the elders talked, he had wandered up to Acornpaw and Celerypaw at the fresh-kill pile and, without any warning at all, swatted the mouse out of Acornpaw's paws.
 
-"Mine," Burrpaw said. Then he looked around the porch and wrinkled his nose. "Smells like stale bread under here. Your clan lives under a *bakery*?"
+"Mine," Burrpaw said.
 
-Acornpaw's fur bristled along his spine. "I *caught* that."
+Acornpaw's fur went up along his spine. "I *caught* that."
 
-"Caught it on *our* border. Porch-cats don't get our mice."
+"Caught it on *our* border."
 
 "It was not your border and I did not catch it *there*."
-
-"Porch-cats," Burrpaw said again, like the word itself was a joke.
 
 Celerypaw stepped between them before the first swipe.
 
@@ -565,9 +563,9 @@ They stopped. She had that effect. She was smaller than either of them but there
 
 Acornpaw glared. Burrpaw glared. Neither of them wanted that.
 
-"Then," said Celerypaw, "nose to nose."
+"Then," said Celerypaw, "paw print to whisker."
 
-It was an old clan ritual for ending quarrels. The two cats stood facing each other and touched their noses together — very softly — and said *settled*. It did not mean *friends*. It meant *not-fighting, for now*. Burrpaw rolled his eyes, but he did it. Acornpaw did it too. They muttered *settled* at the same time.
+It was an old clan ritual for ending quarrels. The two cats stood facing each other, each one pressed a pad against the other's whiskers — very softly — and said *settled*. It did not mean *friends*. It meant *not-fighting, for now*. Burrpaw rolled his eyes, but he did it. Acornpaw did it too. They muttered *settled* at the same time.
 
 Burrpaw took the mouse back to his mentor with his tail high, as if he had won. Acornpaw watched him go and hissed, very quietly.
 
@@ -741,7 +739,7 @@ She paused.
 
 "But Gentlepelt got there. Gentlepelt was strong. She had grown up swimming in the cold rivers. She had grown up walking up steep ridges to gather chestnuts. She had legs that did not stop. And she had *Whitewhisker's voice* in her ears, telling her about how Whitewhisker had once stayed up all night purring a sick Twoleg kit back to sleep, and that purring is what cats do when nothing else can be done, and so on the cold nights of the walk, Gentlepelt walked beside the Cherokee kits and purred them through their nights. And many of them lived because of it.
 
-"Gentlepelt got to the new country. It was strange to her at first. The trees were different. The rivers ran in different directions. But she was Gentlepelt, and she made a new home. She had kits there. Her kits had kits of their own. Their kits had kits after them. There are cats in the western country today, in the place the Twolegs call Oklahoma, who carry a piece of Gentlepelt's blood in their veins. Some of them remember her name. They remember her as the cat who taught them how to purr through the cold."
+"Gentlepelt got to the new country. It was strange to her at first. The trees were different. The rivers ran in different directions. But she was Gentlepelt, and she made a new home. She had kits there. Her kits had kits. Her kits' kits had kits. There are cats in the western country today, in the place the Twolegs call Oklahoma, who carry a piece of Gentlepelt's blood in their veins. Some of them remember her name. They remember her as the cat who taught them how to purr through the cold."
 
 "So the story has a sad part and a not-sad part," said Acornpaw, wiping his face.
 
@@ -879,15 +877,13 @@ Mothpelt went alone.
 
 She did not tell the apprentices. She did not tell Smokefur. Medicine cats walk to the water by themselves — that is one of the oldest rules, older than MarbleClan, older than the fort, older than the city. When a medicine cat needs to hear from StarClan, she goes to the pool, and she goes at moonrise, and she goes alone.
 
-The pool lay south and east, past where the river bent, in a patch of wooded ground the Twolegs had set aside and left mostly quiet. They called it Ijams. The cats had an older name for it — *the green hollow* — but the Twoleg name had stuck to it the way Twoleg names always did. Mothpelt did not mind. A good pool did not care what it was called.
+The pool lay south and east, past where the river bent, in a patch of wooded ground the twolegs had set aside and left mostly quiet. They called it Ijams. The cats had an older name for it — *the green hollow* — but the twoleg name had stuck to it the way twoleg names always did. Mothpelt did not mind. A good pool did not care what it was called.
 
 She slipped out of camp after the fresh-kill had been eaten and Smokefur had settled down to doze. The streets were cool. A fox had been through earlier — she could smell it in the alley by the bakery — but the fox was gone now, and the way was clear. She crossed where the river whispered against the bridge piers and followed a deer track up into the trees.
 
 The pool was where it had always been. A circle of still water, rimmed in limestone, fed by a seep that never dried. Willow leaves on the surface. One frog, and then another, falling silent as she came up. She waited at the edge until even the crickets remembered her.
 
-Then she bent down and lapped three cold drops from the pool. She laid her head on the stone at its edge. She closed her eyes.
-
-When she opened them, she was still at the pool. But the pool was different now — and so was she.
+Then she bent down and touched her nose to the water.
 
 The stars were there.
 
@@ -919,7 +915,7 @@ Mothpelt turned the words over. They made no sense. They had the feel of words t
 
 "That is all?" she said.
 
-"That is enough." He began to fade, slowly, the way breath fades from a cold window. "Mothpelt. When the time comes — let her go."
+"That is enough." He began to fade, very slowly, the way breath fades off a cold window. "Mothpelt. When the time comes — let her go."
 
 "Let who go?"
 
@@ -974,7 +970,7 @@ Celerypaw stared at him.
 
 "Across the *river*?"
 
-"To the other side. To see where Whitewhisker walked Gentlepelt down to the wagon road. I want to see where it happened. I want to see the willow."
+"To the other side. To see where Whitewhisker walked Gentlepelt down to the boats. I want to see where it happened. I want to see the willow."
 
 "That was many many moons ago. The willow is long gone. There is probably a Twoleg dwelling there now."
 
@@ -1033,7 +1029,7 @@ It was all going beautifully.
 
 That was Acornpaw's first warning sign, looking back. Things going beautifully are nature's way of warning you.
 
-They came to the place. The place where Whitewhisker had walked Gentlepelt down to the wagon road. There was no willow. There was a small park, with a bench. There was a stone marker. The marker said something in Twoleg writing that they could not read, but Celerypaw said the right word *Cherokee* was on it, and so they sat down beside it and they were quiet for a long time.
+They came to the place. The place where Whitewhisker had walked Gentlepelt down to the boats. There was no willow. There was a small park, with a bench. There was a stone marker. The marker said something in Twoleg writing that they could not read, but Celerypaw said the right word *Cherokee* was on it, and so they sat down beside it and they were quiet for a long time.
 
 It was while they were quiet that Acornpaw saw the bird.
 
@@ -1089,7 +1085,7 @@ He scrambled back up the bank.
 
 But the marker stone was not where they had thought it was. They walked back the way they thought they had come. They came to a small ravine they did not remember crossing. They walked along it. They came to a wider stream they did not remember. They turned the other way. They came to a Twoleg dwelling they did not recognize.
 
-The sun was higher than it had been. Acornpaw's stomach felt wrong. It was the feeling of having no plan, when your sister had specifically made a list of plans, and one of the items on the list had been *stay together*, and they had stayed together, but every other item had quietly gone wrong while no one was looking.
+The sun was higher than it had been. Acornpaw's stomach felt strange. It was the strange feeling of having no plan, when your sister had specifically made a list of plans, and one of the items on the list had been *stay together*, and they had stayed together, but every other item had quietly gone wrong while no one was looking.
 
 "We are lost," Celerypaw said calmly.
 
@@ -1118,6 +1114,8 @@ Then she said: "You are doing the shame thing."
 "Smokefur said. *Lost is lost. Lost is not the time for pride.* We need help."
 
 Acornpaw closed his eyes. He breathed once. Twice.
+
+He breathed.
 
 The shame was hot under his fur. He could feel it in his ears, in his throat, in the soft place behind his eyes. It wanted him to lie down in the leaves and stay there.
 
@@ -1209,7 +1207,7 @@ He waited longer.
 
 Something cold moved past his whiskers — the breath of the deeper passage. It smelled of wet stone and old water and of something *vast*.
 
-He thought of Greatfang. He thought of the underground sea the old stories talked about. He thought of how everything in the hollow had a sea beneath it, and how every cat eventually had to walk past one.
+He thought of Greatfang. He thought of the underground sea Smokefur had told him about. He thought of how everything in the hollow had a sea beneath it, and how every cat eventually had to walk past one.
 
 A stone clattered above him. Celerypaw's voice: "Acornpaw? I cannot get down without falling. The slope is too steep."
 
@@ -1273,7 +1271,7 @@ He sat down at the edge of the water. He looked into it.
 
 Beneath the water, faint and far, he saw something. A sparkle of stone. Or light. Or — something like an eye. Something old. Something that had been there longer than there had been kits to fall through ceilings into the world.
 
-He thought of the old story. *Greatfang. The cat the size of a wolf. Her footprints still in the mud.*
+He thought of Smokefur's story. *Greatfang. The cat the size of a wolf. Her footprints still in the mud.*
 
 He looked down at the floor of the cave.
 
@@ -1343,7 +1341,7 @@ The walk home was not a walk home. The MountainClan warriors led them only as fa
 
 There, in the failing light, the lead MountainClan warrior — a large brown tom with a torn ear and a deep gentle voice — spoke.
 
-"Apprentices. From here, we cannot go. This is your country. You are nearer to it than we are. But night is falling. You cannot make it home tonight. You must find shelter. Listen carefully. Two mile-walks east of here is a great Twoleg place we call the Hill of Many Lights. It is a learning-place for Twoleg kits. There are kind cats there. Two old ones — a tom and a she-cat. Find them. Tell them Bearstar's deputy sent you. They will give you a roof for the night."
+"Apprentices. From here, we cannot go. This is your country. You are nearer to it than we are. But night is falling. You cannot make it home tonight. You must find shelter. Listen carefully. Two mile-walks east of here is a great Twoleg place we call the Hill of Many Lights. It is a learning-place for Twoleg kits. There are kind cats there. Two old toms. Find them. Tell them Bearstar's deputy sent you. They will give you a roof for the night."
 
 He bowed his head to them.
 
@@ -1357,7 +1355,7 @@ They had to cross a long thunderpath. They waited until there were no monsters a
 
 They came to the place.
 
-The Hill of Many Lights was a great hill full of grand Twoleg dwellings, built of orange brick and stone. Lights were coming on in many of the windows. Twolegs walked everywhere — most of them very young Twolegs, in groups, laughing and shouting. A great curving path of stone ran up the hill. Orange-and-white flags hung from poles. A bell rang somewhere far above them.
+The Hill of Many Lights was a great hill full of grand Twoleg dwellings, built of tan brick and stone. Lights were coming on in many of the windows. Twolegs walked everywhere — most of them very young Twolegs, in groups, laughing and shouting. A great curving path of stone ran up the hill. Strange green-and-white flags hung from poles. A bell rang somewhere far above them.
 
 "Where do we find the cats?" Acornpaw whispered.
 
@@ -1413,7 +1411,7 @@ Celerypaw was quiet. Acornpaw was trying to swallow a piece of fish that had sud
 
 Smokey rolled onto his back lazily.
 
-"In the morning," he said, "we will walk you both as far as the great river. From the great river, you can find your way home. For tonight, sleep. Many many strange things have happened to you today. Sleep is the way the body sorts them into the right boxes."
+"In the morning," he said, "we will walk you both as far as the great river. From the great river, you can find your way home. For tonight, sleep. Many many strange things have happened to you today. Sleep is the way the body sorts the strange things into the right boxes."
 
 Celerypaw curled up. Acornpaw curled up next to her.
 
@@ -1443,7 +1441,7 @@ They slept.
 
 Far above them, on the highest peak of the Hill of Many Lights, the old tower glowed warm against the dark. Down in the valley, the river curved past Knoxville, carrying the day away. And on a porch in MarbleClan territory, an elder with cloudy eyes lay awake, listening to the wind, waiting for news.
 
-> **From the Twoleg world:** The University of Tennessee, Knoxville sits on a hill on the south side of downtown — a real "Hill" in the local way of speaking. The campus has long been home to friendly stray cats fed by students. The university's mascot is a Bluetick Coonhound named Smokey, but cats around campus have always borrowed his name. The big orange-brick building on top of the hill, with its tall central bell tower and the orange-and-white checkerboard pattern near the top, is Ayres Hall — visible from much of the city. The school colors are orange and white, and the football team is called the Volunteers, which is why the campus often feels orange on game days.
+> **From the Twoleg world:** The University of Tennessee, Knoxville sits on a hill on the south side of downtown — a real "Hill" in the local way of speaking. The campus has long been home to friendly stray cats fed by students. The university's mascot is a Bluetick Coonhound named Smokey, but cats around campus have always borrowed his name. The big tan-brick building with the famous round windows is Ayres Hall, on top of the hill — visible from much of the city. The school colors are orange and white, and the football team is called the Volunteers, which is why the campus often feels orange on game days.
 
 ---
 
@@ -1557,7 +1555,7 @@ He thought of all of them. He let them be there in his head all at once, like li
 
 In the morning, they walked on.
 
-The land changed. The river curved away to the south, and the apprentices had to make a choice — follow the river around the long curve, which would take them many extra mile-walks, or cut north across an unfamiliar ridge, which might lead them into the territory of yet another clan they did not know.
+The land changed. The river curved away to the south, and the apprentices had to make a choice — follow the river around the long curve, which would take them many extra mile-walks, or cut north across an unfamiliar ridge, which Springflight had warned them might lead them into the territory of yet another clan they did not know.
 
 "North," Celerypaw decided. "We are tired. North will be faster. If we are lost again, we are lost again. We will deal with it."
 
@@ -1583,13 +1581,13 @@ Lampblack's whiskers moved in a small smile.
 
 "Of course she did. Smokefur knows everyone. Welcome to Quietclan, apprentices. You are tired and you are hungry. Come."
 
-He led them through the clean orderly valley to a place that was a kind of porch behind a great square Twoleg dwelling. On the porch were three other cats — two she-cats and a thin grey tom. They greeted Lampblack with a small respectful nod. He nodded back.
+He led them through the strange clean valley to a place that was a kind of porch behind a great square Twoleg dwelling. On the porch were three other cats — two she-cats and a thin grey tom. They greeted Lampblack with a small respectful nod. He nodded back.
 
 "Apprentices from MarbleClan," he said. "Lost. Returning."
 
 The three Quietclan cats made room. They brought water. They brought a small share of food.
 
-"Eat," said one of the she-cats. "Then I will tell you the story of this place. It is an odd story. Smokefur has surely told you the bones of it. But we tell it differently here, in the house where it happened. Listen."
+"Eat," said one of the she-cats. "Then I will tell you the story of this place. It is a strange story. Smokefur has surely told you the bones of it. But we tell it differently here, in the house where it happened. Listen."
 
 They ate. They listened.
 
@@ -1617,7 +1615,7 @@ Lampblack answered.
 
 "The cats kept the mice out of the wires. That was our work. My great-grandfather's grandfather — *Quietpaw* — walked the long building called the K-twenty-five every night. It was so vast you could not see one end from the other — a U-shape, so the spinning machines inside could pass their work hand to hand without ever stopping. He kept the mice out of the wires. Without him, the work would have failed in many small accidental ways. He did this his whole life. He never left this valley. He died here. He is buried under a flowering pear tree near the third entrance to Y-twelve. We tend the pear tree. We always will."
 
-Acornpaw was very moved. He had not thought, when Smokefur had first mentioned the Secret City, that there would still be a great-grandson's grandson, here, telling it forward.
+Acornpaw was very moved. He had not thought, when Smokefur had told him the story of Quietpaw, that there would still be a great-grandson's grandson, here, telling it forward.
 
 "What is the name of the work?" Acornpaw asked.
 
@@ -1731,7 +1729,7 @@ She did not get up when they came toward her. She looked at them for a long mome
 
 "You *knew*?" Acornpaw said.
 
-"I am older than the oak. There is something I know about apprentices who get themselves lost. They almost always come home through this bluff. I do not understand it. I think it has to do with the wind. I have been sitting here for three days."
+"I am older than the oak. There is something I know about apprentices who get themselves lost. They almost always come home through this bluff. I do not understand it. I think it has to do with the wind. I have been sitting here for two days."
 
 "Two *days*?"
 
@@ -1945,7 +1943,7 @@ From inside the theatre came the muffled rumble of voices and music and laughter
 
 "Who is that?" Celerypaw whispered.
 
-"A Twoleg storyteller," Smokefur said. "A very old one. He tells tales of ships that fly between the stars. Your housemates Eli and Rosie love him, I think. The Twolegs love him. They have come from all over to listen."
+"A Twoleg storyteller," Smokefur said. "A very old one. He tells stories of ships that fly between the stars. Your housemates Eli and Rosie love him, I think. The Twolegs love him. They have come from all over to listen."
 
 "Like a World's Fair," Acornpaw said.
 
@@ -1969,17 +1967,7 @@ Acornpaw swallowed. He looked up at the alley. The breeze was wrong. The rats wo
 
 He gathered his haunches and slipped into the dark.
 
-He did not make it on the first try.
-
-He flushed a rat too early, the wind turning on him at the wrong moment, and it vanished under a dumpster before he was even fully crouched. His chest went hot. The old shame started to climb — *mouse-brain, you moved too soon, you always move too soon* — and for a breath he felt himself teetering on the edge of it.
-
-He breathed past it.
-
-*Rats are not cardinals,* he told himself. *And you are not an apprentice tonight.*
-
-He remembered Hollyflight, long ago now, on the wet grass behind the porch: *Belly to the ground. All of you. Weight on the back paws. Not the front. Front paws are for going. Back paws are for springing.* He felt his weight shift. He felt the coiled spring come back into his hindquarters the way it had the very first time.
-
-He flattened. He listened. He waited, counting his own heartbeats. A second rat came out of the drainpipe, unhurried. Acornpaw let it get three pawsteps from cover and sprang.
+He did not make it on the first try. He flushed a rat and lost it under a dumpster. His chest went hot. The shame started to rise. He breathed past it. Rats are not cardinals. He flattened. He listened. He waited, counting his own heartbeats. A second rat came out of the drainpipe, unhurried. Acornpaw let it get three pawsteps from cover and sprang.
 
 This time his paws did exactly what he told them to.
 
@@ -2065,29 +2053,7 @@ He was silent a moment. "I want to meet her too, one day."
 
 Smokefur, behind them, smiled with her cloudy eyes.
 
-They would keep the vigil until dawn.
-
-That was the old way. New warriors sat silent at the edge of the clan's territory, not sleeping, listening for the hollow, until the first grey light touched the rooftops. They did not speak. They did not move. Whatever they heard, they held for the clan.
-
-Acornleap sat on the curb. Celeryflight sat beside him. The clan melted home, one by one, leaving them. Stonestar touched each of their heads with his nose as he left — *leader to warriors* — and then he was gone too.
-
-The theatre emptied.
-
-The Twolegs streamed past, happy and oblivious, no one looking down at the two small warriors on the curb. A group of them were still singing bits of Singer's song. A woman laughed so loudly that Celeryflight's ear flickered, and then settled. A tall man in a long coat looked right at them for a moment — right *at* them, the way the old storyteller would have looked, the way a cat-friend looked — and he smiled a small private smile and walked on. Acornleap thought, in the small part of him that was still thinking: *one of the good ones.*
-
-The streetlamps burned through the slow hours.
-
-Somewhere a freight train hooted across the dark. A delivery truck rattled past with its orange hazard lights. A stray dog trotted by on the far sidewalk, saw them, decided they were not his problem, and kept going. A fox slipped across Gay Street two blocks down — Acornleap saw it and his whiskers twitched and he did not move. Celeryflight's shoulder was pressed into his shoulder. She had not moved all night either.
-
-Once, just once, he almost spoke. He had felt something rise in his chest — a kind of *thank you*, maybe, to the hollow, or to Smokefur, or to Celeryflight, or to the Twoleg boy and girl who had looked at him from the balcony and not known they were in the story. The *thank you* sat behind his teeth for a long, long time. He kept it there. That was the vigil. You did not spend the words. You held them.
-
-When the first pale edge of morning lifted over the rooftops of the Old City, the streetlamps went out, one by one, the way they had come *on* in Whitewhisker's story a hundred moons ago. A freight train called once more, very far away. A pigeon cooed somewhere above them. The air smelled like river and bread and the end of a night that had mattered.
-
-Acornleap stood up.
-
-Celeryflight stood up.
-
-They were stiff. They were changed. They walked home together through the waking hollow, shoulder to shoulder, saying nothing — because there was nothing that needed saying, and because they were warriors now, and warriors knew how to carry a quiet thing.
+They would keep the vigil until dawn. That was the old way — new warriors sat silent at the edge of the clan's territory, not sleeping, listening for the hollow, until the first grey light touched the rooftops. Acornleap sat on the curb. Celeryflight sat beside him. The clan slowly melted home, one by one, leaving them. The theatre emptied. The Twolegs streamed past, happy and oblivious, no one looking down at the two small warriors on the curb. The streetlamps burned through the slow hours. Somewhere a freight train hooted across the dark. Acornleap did not speak. Celeryflight did not speak. When the first pale edge of morning finally lifted over the rooftops of the Old City, both of them stood up, stiff and changed, and walked home together through the waking hollow.
 
 > **From the Twoleg world:** The Tennessee Theatre opened in 1928 and is one of the most beautiful old movie palaces in the South. Designed in a Spanish-Moorish style, it has hosted concerts, films, and live shows for nearly a hundred years. On April 18, 2026, the theatre is showing *Star Trek II: The Wrath of Khan* with a live appearance by the legendary Captain Kirk himself, William Shatner. Eli and Rosie — that's *you two* — get to be there. Listen for the laughter. That's the sound of a World's Fair the size of one room.
 

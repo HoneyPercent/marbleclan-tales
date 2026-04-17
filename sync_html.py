@@ -24,12 +24,13 @@ section_map = {}  # id -> {"eyebrow", "title", "body"}
 CHAPTER_META = {
     "Prologue: The Hollow": ("prologue", "images/01-prologue-porch.jpeg", "Acornpaw and Celerypaw sitting under a wooden porch at dawn", "Acornpaw and Celerypaw, beneath the porch.", "Prologue", "The Hollow"),
     "Chapter One: The Cat Who Built the Walls": ("ch1", "images/02-whitewhisker-fort.jpeg", "Whitewhisker the cat standing on the rooftop of James White's frontier fort at sunset", "Whitewhisker, atop the fort he helped to build.", "Chapter One", "The Cat Who Built the Walls"),
-    "Chapter Two: The Three Rivers Meet": ("ch2", "images/09-three-rivers.jpeg", "Three rivers meeting at dawn from a high bluff", "The wedding of the rivers, seen from Sharp's Ridge.", "Chapter Two", "The Three Rivers Meet"),
+    "Chapter Two: The Three Rivers Meet": ("ch2", "images/09-three-rivers.jpeg", "Three rivers meeting at dawn from a high bluff", "The wedding of the rivers, seen from the bluff above the Forks.", "Chapter Two", "The Three Rivers Meet"),
     "Chapter Three: The Cat Who Made Words": ("ch3", "images/03-markpelt-syllabary.jpeg", "Markpelt the silver tabby cat drawing Cherokee syllabary characters on birch bark", "Markpelt, drawing the squiggles that became a language.", "Chapter Three", "The Cat Who Made Words"),
     "Chapter Four: The Volunteer State": ("ch4", "images/10-volunteer-state.jpeg", "Tennessee militia cats marching at dawn under a starry flag", "Volunteers, answering the call.", "Chapter Four", "The Volunteer State"),
     "Chapter Five: The Mountain That Breathes": ("ch5", "images/04-mountainclan-fireflies.jpeg", "MountainClan cats overlooking a Smoky Mountain valley filled with synchronous fireflies", "MountainClan, on the night the fireflies sing together.", "Chapter Five", "The Mountain That Breathes"),
     "Chapter Six: The Trail That Was Not Chosen": ("ch6", "images/11-trail-of-tears.jpeg", "Trailwalker the Cherokee cat looking back at her mountains", "Trailwalker, on the long road west.", "Chapter Six", "The Trail That Was Not Chosen"),
     "Chapter Seven: The Wild Boy Who Vanished": ("ch7", "images/12-davy-crockett.jpeg", "Wildwhisker the frontier cat on a stump in the East Tennessee woods", "Wildwhisker, in the woods above Greeneville.", "Chapter Seven", "The Wild Boy Who Vanished"),
+    "Interlude: The Pool at Ijams": ("interlude", "", "", "", "Interlude", "The Pool at Ijams"),
     "Chapter Eight: The Day Everything Changed": ("ch8", "images/13-marble-beneath.jpeg", "Acornpaw alone in a strange landscape of pink marble blocks", "A new country. The kind without a path back.", "Chapter Eight", "The Day Everything Changed"),
     "Chapter Nine: The Sea Beneath": ("ch9", "images/06-greatfang-cave.jpeg", "Greatfang the prehistoric jaguar in the cave", "Greatfang, in the cave that became the Lost Sea.", "Chapter Nine", "The Sea Beneath"),
     "Chapter Ten: The Wild Cats of the Hill": ("ch10", "images/14-ut-campus.jpeg", "Smokey and Onyx walking Celerypaw across the UT campus at twilight", "Smokey and Onyx walk Celerypaw across the Hill of Many Lights.", "Chapter Ten", "The Wild Cats of the Hill"),
@@ -97,10 +98,11 @@ for heading, (sid, img, alt, cap, eyebrow, title) in CHAPTER_META.items():
         print(f"MISSING SECTION: {heading}")
         continue
     prose = md_to_html(body, is_first_paragraph_lead=True)
+    figure_html = f'<figure class="illustration"><img src="{img}" alt="{alt}" loading="lazy"><figcaption class="illustration-caption">{cap}</figcaption></figure>' if img else ''
     block = f'''<section class="section prose" id="{sid}" data-name="{heading.replace("&", "&amp;").replace("'", "&#39;").replace('"', '&quot;')}">
   <div class="chapter-eyebrow">{eyebrow}</div>
   <h2 class="chapter-title">{title.replace("&", "&amp;")}</h2>
-  <figure class="illustration"><img src="{img}" alt="{alt}" loading="lazy"><figcaption class="illustration-caption">{cap}</figcaption></figure>
+  {figure_html}
   {prose}
   <hr class="scene-break">
 </section>'''
